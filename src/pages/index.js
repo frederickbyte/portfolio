@@ -14,8 +14,16 @@ const projects = [
     id: 1,
     title: "MyMentor",
     description: "Xamarin Forms frontend | .NET backend",
+    emoji: "📱",
     page: "mymentor",
     url: "https://github.com/frederickbyte/MyMentor",
+  },
+  {
+    id: 2,
+    title: "Portfolio",
+    description: "React frontend | Netlify host",
+    emoji: "📝",
+    url: "https://github.com/frederickbyte/portfolio",
   },
 ]
 
@@ -87,17 +95,23 @@ const BlogIndex = ({ data, location }) => {
             <div className="project" key={p.id}>
               <div className="flex-column">
                 <div className="project-title">
-                  <Emoji symbol="📱" label="mobile phone emoji" /> {p.title}
+                  <Emoji symbol={p.emoji} label="emoji" /> {p.title}
                 </div>
                 <div>{p.description}</div>
               </div>
               <div style={{ display: `flex` }}>
-                <a href={p.url} rel="noopener noreferrer" className="code-btn">
+                <a
+                  href={p.url}
+                  rel="noopener noreferrer"
+                  className="code-btn-blue"
+                >
                   Code
                 </a>
-                <Link to={p.page} className="code-btn">
-                  Info
-                </Link>
+                {p.page && (
+                  <Link to={p.page} className="code-btn-green">
+                    Info
+                  </Link>
+                )}
               </div>
             </div>
           )

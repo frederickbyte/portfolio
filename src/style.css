@@ -2,8 +2,10 @@
   --fontFamily-sans: "Open Sans", sans-serif;
   --blue: #3f51b5;
   --black-font: #1b1d25;
-  --codeBtn-color: #5183f5;
-  --codeBtn-hover: #364fc7;
+  --codeBtn-blue: #5183f5;
+  --codeBtn-blue-dark: #364fc7;
+  --codeBtn-green: #4caf50;
+  --codeBtn-green-dark: rgb(0, 100, 0);
   font-size: 16px;
   margin: 0;
   padding: 0;
@@ -102,7 +104,7 @@ main {
   display: flex;
   flex-direction: column;
   flex: 1;
-  margin: 0 auto;
+  margin: 0 auto 3rem auto;
   max-width: 900px;
   padding: 1rem 2rem;
 }
@@ -159,19 +161,39 @@ li {
   margin-top: 0;
 }
 
-.code-btn {
-  border: 2px solid var(--codeBtn-color);
+.code-btn-blue {
+  border: 2px solid var(--codeBtn-blue);
   padding: 0.3rem 0.6rem;
   margin-right: 0.75rem;
   font-weight: 500;
-  background: var(--codeBtn-color);
+  background: var(--codeBtn-blue);
   color: #f8f8ff;
   border-radius: 0.35rem;
 }
 
-.code-btn:hover {
-  background: var(--codeBtn-hover);
-  border: 2px solid var(--codeBtn-hover);
+.code-btn-blue:hover {
+  background: var(--codeBtn-blue-dark);
+  border: 2px solid var(--codeBtn-blue-dark);
+}
+
+.code-btn-green {
+  border: 2px solid var(--codeBtn-green);
+  padding: 0.3rem 0.6rem;
+  margin-right: 0.75rem;
+  font-weight: 500;
+  background: var(--codeBtn-green);
+  color: #f8f8ff;
+  border-radius: 0.35rem;
+}
+
+.code-btn-green:hover {
+  border: 2px solid var(--codeBtn-green-dark);
+  padding: 0.3rem 0.6rem;
+  margin-right: 0.75rem;
+  font-weight: 500;
+  background: var(--codeBtn-green-dark);
+  color: #f8f8ff;
+  border-radius: 0.35rem;
 }
 
 .flex-column {

@@ -5,7 +5,7 @@ date: '2020-10'
 category: 'politics, tech'
 ---
 
-All of us desire to live in a world of clean air, clear water, uncontaminated food. People want to live comfortably. This requires energy - and _lots_ of it.
+All of us desire to live in a world of clean air, clear water, uncontaminated food. People want to live comfortably. But this requires energy - and _lots_ of it.
 Electricity use continues to rise as more of the world gains access to energy; this trend will not stop anytime soon. As the need for energy continues to grow, our methods for extracting and transporting it must evolve as well.
 Using dangerous, unreliable, or expensive methods of energy production quite literally prevents civilized society from existing.
 What modern, industrialized country do you know of that exists without an abundance of energy production?
@@ -104,7 +104,10 @@ Authors have written books about this accident so I will not go into detail here
 The Chernobyl disaster is a result of the oppressive government ownership of a country's power supply.
 
 Such a disaster is nearly [impossible](https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx) at a free, privately-owned nuclear power plant.
-In fact, the types of [reactors](https://www.businessinsider.com/chernobyl-meltdown-no-graphite-us-nuclear-reactors-2016-4) that exist today cannot experience a meltdown like the one at Chernobyl.
+As with any industry, private businesses have an incentive to provide high-quality, safe, and effective products to their customers; that is how they profit. Nuclear power is no different. Every company would
+take the requisite safety precautions and keep their power plants up-to-date becuase that is the _only_ way they would attract customers and make money.
+
+The types of [reactors](https://www.businessinsider.com/chernobyl-meltdown-no-graphite-us-nuclear-reactors-2016-4) that exist today cannot experience a meltdown like the one at Chernobyl.
 In short, another Chernobyl will not happen in a free society that uses nuclear power.
 
 Opponents of nuclear power often point to "nuclear accidents" in an attempt to instill fear on their audience, despite the fact that all of these incidences (except for Chernobyl and Fukushima) resulted in no deaths or serious injury.
@@ -114,11 +117,12 @@ Many refer to the Three Mile Island [accident](https://en.wikipedia.org/wiki/Thr
 In fact, here is part of what the US Nuclear Regulatory Commission [says](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html) about the health effects of the event:
 
 > The approximately 2 million people around TMI-2 during the accident are estimated to have received an average radiation dose of only about 1 millirem above the usual background dose.
-> To put this into context, exposure from a chest X-ray is about 6 millirem and the area’s natural radioactive background dose is about 100-125 millirem per year… In spite of serious damage to the reactor, the actual release had negligible effects on the physical health of individuals or the environment.
+> To put this into context, exposure from a chest X-ray is about 6 millirem and the area’s natural radioactive background dose is about 100-125 millirem per year… In spite of serious damage to the reactor,
+> the actual release had negligible effects on the physical health of individuals or the environment.
 
 We could spend all day looking at each historical event. But the case is clear: nuclear power is safe.
 
-In essence, _nuclear power is the safest form of major energy production_.
+Not only is it safe, but nuclear power is the _safest form of major energy production_.
 
 # Nuclear power is reliable
 
