@@ -1,5 +1,7 @@
 :root {
-  --fontFamily-sans: "Open Sans", sans-serif;
+  --fontFamily-sans: -apple-system, BlinkMacSystemFont, Helvetica Neue, Roboto,
+    Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI, Segoe UI Emoji,
+    Segoe UI Symbol, Noto Color Emoji;
   --blue: #3f51b5;
   --black-font: #1b1d25;
   --codeBtn-blue: #5183f5;
@@ -61,7 +63,8 @@ blockquote:before {
 
 blockquote p {
   display: inline;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
+  line-height: 1.7;
 }
 
 figcaption {
@@ -128,8 +131,8 @@ main {
 
 .article-body > section > p,
 li {
-  font-size: 1.1rem;
-  line-height: 1.6;
+  font-size: 1.2rem;
+  line-height: 1.7;
 }
 
 .article-prev {
@@ -276,7 +279,7 @@ li {
   color: var(--dark-font-color);
   margin-left: 1rem;
   padding: 0.4rem 0.6rem;
-  font-size: 0.8rem;
+  font-size: 0.9rem;
   border-radius: 16px;
   white-space: nowrap;
   line-height: 1;

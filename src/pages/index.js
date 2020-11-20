@@ -69,7 +69,7 @@ const BlogIndex = ({ data, location }) => {
           <div key={post.fields.slug} className="article-prev">
             <div className="article-prev-info">
               <div style={{ display: `flex`, alignItems: `center` }}>
-                <small>{post.frontmatter.date}</small>
+                <div>{post.frontmatter.date}</div>
                 {categories.map(category => {
                   return (
                     <div

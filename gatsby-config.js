@@ -51,12 +51,6 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
-      },
-    },
     `gatsby-plugin-feed`,
     {
       resolve: `gatsby-plugin-manifest`,
@@ -68,17 +62,6 @@ module.exports = {
         theme_color: `#272727`,
         display: `minimal-ui`,
         icon: `static/favicon.ico`,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
-      options: {
-        fonts: [
-          {
-            family: `Open Sans`,
-            variants: [`400`, `600`, `700`],
-          },
-        ],
       },
     },
     `gatsby-plugin-sitemap`,
