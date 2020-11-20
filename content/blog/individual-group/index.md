@@ -48,7 +48,7 @@ Near the end of his remarks, Judge Kastrenakes quotes Davis v. City of S. Bay as
 
 Herein lies the essence of the judge's argument. If anything bad is happening in society, the government can say or do essentially whatever it wants so long as that action is in the name of the "public good." The government, according the judge and many of our politicians, has both the moral and legal responsibility to override individual rights in times of need.
 
-What are *times of need*? Is this a small and limited scope in which the government can act? Nope. According to the courts: "any potential public calamity" which means: for anything and everything.
+What are *times of need?* Is this a small and limited scope in which the government can act? Nope. According to the courts: "any potential public calamity" which means: for anything and everything.
 
 # Individual rights are objective and absolute
 

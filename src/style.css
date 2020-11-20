@@ -128,8 +128,8 @@ main {
 
 .article-body > section > p,
 li {
-  font-size: 1.2rem;
-  line-height: 1.7;
+  font-size: 1.1rem;
+  line-height: 1.6;
 }
 
 .article-prev {
@@ -149,8 +149,15 @@ li {
   padding: 0.5rem;
 }
 
-.article-prev:hover {
-  background: #f0f0f0;
+.article-prev-title {
+  font-size: 2rem;
+  font-weight: 600;
+  border-bottom: none;
+  text-decoration: none;
+}
+
+.article-prev-title:hover {
+  text-decoration: underline;
 }
 
 .bio-body {
@@ -219,6 +226,7 @@ li {
   align-items: center;
   font-size: 1.2rem;
   border-bottom: none;
+  width: fit-content;
 }
 
 .index-links {

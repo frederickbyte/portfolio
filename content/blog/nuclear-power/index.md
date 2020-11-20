@@ -36,8 +36,6 @@ Biased news reports and videos of Homer Simpson aimlessly trying to operate a nu
 The only information or news we receive about nuclear power is negative; it’s no wonder why so many resent such a transformative solution to our energy demand problem.
 Television shows are [wrong](https://www.energy.gov/ne/articles/7-things-simpsons-got-wrong-about-nuclear) in their depiction of nuclear power - but that does not matter to the average person. The emotional message has already made its way into the minds of the audience.
 
-![Credit: Fox](./homer.jpg)
-
 Mainstream media ignore the rational justification for nuclear fission and continue to paint the industry with an apocalyptic brush while refusing to discuss the core arguments.
 
 Despite the clear need for nuclear energy, America continues to distance itself from the technology.

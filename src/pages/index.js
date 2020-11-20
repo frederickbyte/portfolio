@@ -67,7 +67,7 @@ const BlogIndex = ({ data, location }) => {
           : []
         return (
           <div key={post.fields.slug} className="article-prev">
-            <Link to={post.fields.slug} className="article-prev-info">
+            <div className="article-prev-info">
               <div style={{ display: `flex`, alignItems: `center` }}>
                 <small>{post.frontmatter.date}</small>
                 {categories.map(category => {
@@ -81,9 +81,11 @@ const BlogIndex = ({ data, location }) => {
                   )
                 })}
               </div>
-              <h2 style={{ margin: `.2rem 0` }}>{title}</h2>
+              <Link to={post.fields.slug} className="article-prev-title">
+                {title}
+              </Link>
               <div>{description}</div>
-            </Link>
+            </div>
           </div>
         )
       })}
@@ -100,6 +102,11 @@ const BlogIndex = ({ data, location }) => {
                 <div>{p.description}</div>
               </div>
               <div style={{ display: `flex` }}>
+                {p.page && (
+                  <Link to={p.page} className="code-btn-green">
+                    Info
+                  </Link>
+                )}
                 <a
                   href={p.url}
                   rel="noopener noreferrer"
@@ -107,11 +114,6 @@ const BlogIndex = ({ data, location }) => {
                 >
                   Code
                 </a>
-                {p.page && (
-                  <Link to={p.page} className="code-btn-green">
-                    Info
-                  </Link>
-                )}
               </div>
             </div>
           )
