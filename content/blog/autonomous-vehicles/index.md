@@ -7,14 +7,14 @@ category: 'tech'
 
 People become uncomfortable in the face of change. They are _especially_ uncomfortable with the idea of automation (robots/software replacing humans). Despite the fact that machines and software continue to increase our standard of living, most people still do not trust machines to perform the work that humans currently do. Recent [surveys](https://saferoads.org/wp-content/uploads/2020/01/AV-Public-Opinion-Polls-7-22-19.pdf) show:
 
-- 64% of Americans said they would _not_ buy a self-driving car
+- 64% of Americans would _not_ buy a self-driving car
 - 71% of U.S. drivers would be _afraid_ to ride in a fully self-driving vehicle
 
 Despite the incredible work by engineers and other scientists, companies such as Tesla, Google, and Waymo have been unable to convince a majority of the population of the immense benefits of self-driving vehicles.
 
 To an extent, these fears are understandable. Watching a car cruise around the road with no driver is unsettling. What happens if a young child runs into the road? Can we trust software to swerve out of the way and not hit other pedestrians? What if the software contains a bug and my car drives off a bridge?
 
-Those are all valid concerns, but they are ones that have already been solved in the self-driving community. Even in its infancy, autonomous vehicles have proven themselves to drive safer than the average human  - and they will only get safer and more efficient.
+Those are all valid concerns, but they are ones that have _already been solved_ by the self-driving community. Even in its infancy, autonomous vehicles have proven themselves to drive safer than the average human  - and they will only get safer and more efficient.
 
 ![Credit: Waymo](./waymo.png)
 
@@ -25,13 +25,15 @@ In this post, I’ll discuss:
 3. Autonomous vehicles will make roads safer and less congested
 4. Self-driving cars will only become safer and offer more luxurious riding experiences
 
-I am not arguing that we ban cars. I am explaining why robots and software are far superior drivers and why we should embrace a transition to autonomous driving. First, let’s see why we should even care about vehicle safety at all.
+Note: _I am not arguing that we ban cars._ I am explaining why robots and software are far superior drivers and why we should embrace a transition to autonomous driving. Individuals and businesses should be free to persue any method of transportation they desire (so long as they not violate anyone else's rights of course). But a rational society is one that continues to improve its standard of living - self-driving vehicles _are_ a step in that direction.
+
+Before diving into autonomous vehicles, why should we even care about vehicle safety at all?
 
 # Humans Are Dangerous Drivers
 
-Before discussing self-driving cars, we should briefly talk about the obvious: humans are bad drivers. Human drivers kill 30,000 - 40,000 people each year. That means ~96 Americans perish every day in auto accidents. In the time you’ve taken to read this paragraph, someone has died in a car crash.
+Before discussing self-driving cars, we should briefly talk about the obvious: **humans are bad drivers.** Human drivers kill 30,000 - 40,000 people [each year](https://en.wikipedia.org/wiki/Motor_vehicle_fatality_rate_in_U.S._by_year#cite_note-10). That means ~96 Americans perish every day in auto accidents. In the time you’ve taken to read this paragraph, someone has died in a car crash.
 
-I don’t mean to be morbid - this is the harsh reality of vehicles. Despite their enormous convenience, many people drive them in precarious ways, endangering everyone around them. Although we have become far better drivers over the years, humans are still far too unreliable and risky for what our standards of safety should be.
+I don’t mean to be morbid - this is the reality of vehicles. Despite their enormous convenience, many people drive them in precarious ways, endangering everyone around them. Although we have become [far better](https://injuryfacts.nsc.org/motor-vehicle/historical-fatality-trends/deaths-and-rates/) drivers over the years, humans are still far too unreliable and risky for what our standards of safety should be.
 
 I consider people as dangerous drivers because:
 
@@ -40,7 +42,7 @@ I consider people as dangerous drivers because:
 2. Human vision is sensitive and flawed; sun and rain can impair vision
 3. Humans become sleepy which significantly impairs driving capability
 4. Humans might drive under the influence of alcohol and other drugs which significantly impair brain and motor functions
-4. Humans are emotional which may cause them to make irrational, snap decisions while driving (road rage)
+5. Humans are emotional which may cause them to make irrational, snap decisions while driving (road rage)
 
 Most people try to drive safely and do not intend to hurt anyone on the road. But humans are fallible and will occasionally make mistakes. And making a mistake while driving a two ton metal cage can cause serious problems.
 
@@ -70,7 +72,7 @@ Self-driving cars have one mission: focus on the road. Every sensor and line of 
 
 Herein lies the major reason why robots are superior drivers: _they focus entirely on the road and its conditions_, whereas humans typically do not. Their sole existence is to focus on the road, ingest data from the various sensors, and make the most informed driving decision possible.
 
-Robot drivers are defensive and cautious _by design._ Humans, to put it mildly, are often less than cautious on the road. Although we may try to drive cautiously, people 
+Robot drivers are defensive and cautious _by design._ Humans, to put it mildly, are often less than cautious on the road. Although we may try to drive cautiously, people do not always have the discipline to control their emotions while behind the wheel.
 
 This is not to imply that self-driving vehicles are perfect. There are some major problems that engineers are working to solve, including:
 
@@ -94,6 +96,12 @@ Self-driving vehicles will make our roads safer and less congested. Americans sp
 Car accidents are the major contributor to congestion. On highways and interstates, a single two-car accident can halt traffic for hours. Autonomous vehicles will substantially reduce the number of hours we spend in traffic because those vehicles will experience significantly less accidents. Self-driving cars will also reduce the number of erratic lane-changes made by humans which cause the dreaded [traffic shockwaves](https://en.wikipedia.org/wiki/Traffic_wave).
 
 # AVs Will Continue To Improve
+
+We can now say with confidence that autonomous vehicles:
+
+- are safer than the average human driver
+- will decrease fatalities, injuries, and traffic congestion
+- allow passengers to spend time relaxing or working instead of driving
 
 Tesla, Waymo, [BMW](https://www.bmw.com/en/automotive-life/autonomous-driving.html), [Cruise](https://www.getcruise.com/), and many other companies are investing billions of dollars into the research and testing of autonomous vehicles. Machine learning and neural networks are not longer in the realm of science fiction either. Corporations such as [Amazon](https://aws.amazon.com/machine-learning/) have teams dedicated to building and training their networks, which in turn improves the performance of self-driving vehicles.
 
