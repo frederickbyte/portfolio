@@ -1,6 +1,6 @@
 ---
 title: Looking ahead to November
-description: The principles that should guide us when voting, and what that means for November.
+description: The principles that should guide us when voting, and what that means for November
 date: '2020-07'
 category: 'politics, philosophy'
 ---

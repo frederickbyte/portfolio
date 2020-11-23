@@ -32,8 +32,7 @@ module.exports = {
             resolve: `gatsby-remark-images`,
             options: {
               linkImagesToOriginal: false,
-              backgroundColor: `transparent`,
-              maxWidth: 800,
+              maxWidth: 900,
               showCaptions: true,
             },
           },
@@ -66,8 +65,5 @@ module.exports = {
     },
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
   ],
 }

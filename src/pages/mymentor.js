@@ -1,13 +1,11 @@
 import React from "react"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { Helmet } from "react-helmet"
 import { Link } from "gatsby"
 
 const MyMentor = () => {
   return (
     <Layout id="index_layout" location="mymentor">
-      <Helmet title={"MyMentor"}></Helmet>
       <SEO title="MyMentor" />
       <div className="flex-column">
         <Link to="/" className="home-link">

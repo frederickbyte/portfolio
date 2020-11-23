@@ -1,6 +1,6 @@
 ---
 title: My Philosophic Framework
-description: Outlining the ideas the guide my life.
+description: Outlining the ideas the guide my life
 date: '2020-06'
 category: 'politics, philosophy'
 ---
