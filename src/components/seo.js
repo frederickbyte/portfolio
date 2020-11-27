@@ -2,6 +2,7 @@ import React from "react"
 import PropTypes from "prop-types"
 import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
+import favicon from "../../static/favicon.png"
 
 const SEO = ({ description, lang, meta, title }) => {
   const { site } = useStaticQuery(
@@ -54,6 +55,7 @@ const SEO = ({ description, lang, meta, title }) => {
         name="viewport"
         content="width=device-width, initial-scale=1"
       ></meta>
+      <link rel="icon" href={favicon} />
     </Helmet>
   )
 }
