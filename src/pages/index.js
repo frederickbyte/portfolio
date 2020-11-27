@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import { Link, graphql } from "gatsby"
 
 import Bio from "../components/bio"
@@ -29,13 +29,38 @@ const projects = [
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Andrew Stolzle`
-  const posts = data.allMarkdownRemark.nodes
+  const allPosts = data.allMarkdownRemark.nodes
   // Sort posts by date.
-  posts.sort((a, b) => b.date - a.date)
+  allPosts.sort((a, b) => b.date - a.date)
   // URL for GitHub
   const githubLink = `https://github.com/frederickbyte`
   // URL for LinkedIn
   const linkedinLink = `https://linkedin.com/in/frederick-stolzle`
+  // Empty search query.
+  const emptyQuery = ""
+  // Search query state.
+  const [state, setState] = useState({
+    filteredData: [],
+    query: emptyQuery,
+  })
+  // User types into search bar
+  const handleSearchInputChange = event => {
+    const query = event.target.value
+    const filteredData = allPosts.filter(post => {
+      const { title, description } = post.frontmatter
+      return (
+        description.toLowerCase().includes(query.toLowerCase()) ||
+        title.toLowerCase().includes(query.toLowerCase())
+      )
+    })
+    setState({
+      query,
+      filteredData,
+    })
+  }
+  const { filteredData, query } = state
+  const hasSearchResults = filteredData && query !== emptyQuery
+  const posts = hasSearchResults ? filteredData : allPosts
 
   return (
     <Layout location={location} title={siteTitle}>
@@ -56,7 +81,18 @@ const BlogIndex = ({ data, location }) => {
           Email
         </a>
       </div>
-      <h1 style={{ marginTop: `2rem`, marginBottom: `0` }}>Recent Articles</h1>
+      <div className="posts-header">
+        <h1 style={{ marginTop: `2rem`, marginBottom: `0` }}>
+          Recent Articles
+        </h1>
+        <input
+          id="search"
+          type="search"
+          aria-label="Search"
+          placeholder="Search for articles"
+          onChange={handleSearchInputChange}
+        />
+      </div>
       <hr></hr>
       {posts.map(post => {
         const title = post.frontmatter.title || post.fields.slug

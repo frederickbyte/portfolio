@@ -31,7 +31,7 @@ Before diving into autonomous vehicles, why should we even care about vehicle sa
 
 # Humans Are Dangerous Drivers
 
-Before discussing self-driving cars, we should briefly talk about the obvious: **humans are bad drivers.** Human drivers kill 30,000 - 40,000 people [each year](https://en.wikipedia.org/wiki/Motor_vehicle_fatality_rate_in_U.S._by_year#cite_note-10). That means ~96 Americans perish every day in auto accidents. In the time you’ve taken to read this paragraph, someone has died in a car crash.
+Before discussing self-driving cars, we should briefly talk about the obvious: **humans are bad drivers.** Human drivers kill 30,000 - 40,000 people [each year](https://en.wikipedia.org/wiki/Motor_vehicle_fatality_rate_in_U.S._by_year). That means ~96 Americans perish every day in auto accidents. In the time you’ve taken to read this paragraph, someone has died in a car crash.
 
 I don’t mean to be morbid - this is the reality of vehicles. Despite their enormous convenience, many people drive them in precarious ways, endangering everyone around them. Although we have become [far better](https://injuryfacts.nsc.org/motor-vehicle/historical-fatality-trends/deaths-and-rates/) drivers over the years, humans are still far too unreliable and risky for what our standards of safety should be.
 

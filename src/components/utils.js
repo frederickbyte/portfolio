@@ -1,20 +1,23 @@
 export function getClassForCategory(category) {
-  var cssClass = 'tag '
+  var cssClass = "tag "
   switch (category) {
-    case 'hobby':
-      cssClass += 'hobby'
+    case "hobby":
+      cssClass += "hobby"
       break
-    case 'philosophy':
-      cssClass += 'philosophy'
+    case "philosophy":
+      cssClass += "philosophy"
       break
-    case 'politics':
-      cssClass += 'politics'
+    case "politics":
+      cssClass += "politics"
       break
-    case 'tech':
-      cssClass += 'tech'
+    case "software":
+      cssClass += "software"
       break
-    case 'non-fiction':
-      cssClass += 'non-fiction'
+    case "tech":
+      cssClass += "tech"
+      break
+    case "non-fiction":
+      cssClass += "non-fiction"
       break
     default:
   }
