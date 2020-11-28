@@ -1,6 +1,6 @@
 ---
-title: The Individual and The Group
-description: Is it right to limit freedoms in the name of public health?
+title: Individual Rights and Public Health
+description: Is it right to limit freedoms in the name of protecting public health?
 date: '2020-09'
 category: 'politics, philosophy'
 ---
@@ -67,3 +67,13 @@ In summary:
 By this standard, *any and all mask mandates are immoral*, regardless of what disease is spreading or how deadly it is. Even if masks were 100% effective against contracting COVID-19, that *still* does not give
 government the authority to force its citizens to wear one.
 Each of us should have the freedom and responsibility to decide whether or not to wear protective coverings or to take other precautions against the spread of infectious diseases.
+
+---
+
+Update: November 27 2020
+
+This week, the Supreme Court [ruled 5-4](https://www.supremecourt.gov/opinions/20pdf/20a87_4g15.pdf) against New York governor Andrew Cuomo's mandate limiting group sizes in religious buildings. Although the justices based their decision more on pragmatism than on principle, Justice Neil Gorsuch at least paid some lip service to individual rights in his concurring opinion:
+
+> _Government is not free to disregard the First Amendment in times of crisis._ At a minimum, that Amendment
+> prohibits government officials from treating religious exercises worse than coparable secular activities, unless they
+> are pursuing a compelling interest and using the least restrictive means available.
