@@ -105,6 +105,8 @@ We can now say with confidence that autonomous vehicles:
 
 Tesla, Waymo, [BMW](https://www.bmw.com/en/automotive-life/autonomous-driving.html), [Cruise](https://www.getcruise.com/), and many other companies are investing billions of dollars into the research and testing of autonomous vehicles. Machine learning and neural networks are not longer in the realm of science fiction either. Corporations such as [Amazon](https://aws.amazon.com/machine-learning/) have teams dedicated to building and training their networks, which in turn improves the performance of self-driving vehicles.
 
+In fact, I believe we will soon look back on the times when humans drove cars and say: "What the hell were we thinking?"
+
 I _eagerly_ await the day when robots drive all of our vehicles. That day will be a safer, calmer, and more enjoyable one to live in. Tens of thousands of lives will be spared, along with billions of gallons of gasoline saved. Instead of spending time focusing on the road, we will be able to relax, rest, or work in our vehicles while a team of software and machines handle the trivial tasks of accelerating, braking, and turning. 
 
 The future of vehicle travel is a bright and beautiful one.
