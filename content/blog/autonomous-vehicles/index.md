@@ -68,7 +68,7 @@ Waymo’s [results](https://storage.googleapis.com/sdc-prod/v1/safety-report/Way
 
 ![Source: Waymo Safety](./waymo-sensors.png)
 
-Self-driving cars have one mission: focus on the road. Every sensor and line of code has a purpose. Road rage, emotional distraction, sandwich-eating and makeup-applying applies not to robot drivers. Autonomous vehicles need not adjust their seatbelt, talk on the phone with their friend, or drive drunk.
+Self-driving cars have one mission: focus on the road. Every sensor and line of code has a purpose. Robot drivers are not susceptible to road rage, emotional distraction, or sandwich-eating. Autonomous vehicles need not adjust their seatbelt, talk on the phone with their friend, or drive drunk.
 
 Herein lies the major reason why robots are superior drivers: _they focus entirely on the road and its conditions_, whereas humans typically do not. Their sole existence is to focus on the road, ingest data from the various sensors, and make the most informed driving decision possible.
 
