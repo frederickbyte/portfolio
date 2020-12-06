@@ -66,14 +66,9 @@ module.exports = {
     `gatsby-plugin-sitemap`,
     `gatsby-plugin-react-helmet`,
     {
-      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      resolve: "gatsby-plugin-robots-txt",
       options: {
-        fonts: [
-          {
-            family: `Open Sans`,
-            variants: [`400`, `700`],
-          },
-        ],
+        policy: [{ userAgent: "*", allow: "/" }],
       },
     },
   ],
