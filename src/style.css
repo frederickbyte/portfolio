@@ -1,7 +1,5 @@
 :root {
-  --fontFamily-sans: -apple-system, BlinkMacSystemFont, Helvetica Neue, Roboto,
-    Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI, Segoe UI Emoji,
-    Segoe UI Symbol, Noto Color Emoji;
+  --fontFamily-open: "Open Sans", sans-serif;
   --blue: #3f51b5;
   --black-font: #1b1d25;
   --codeBtn-blue: #5183f5;
@@ -18,7 +16,7 @@ html {
   -moz-osx-font-smoothing: grayscale;
   background-color: #fff;
   box-sizing: border-box;
-  font-family: var(--fontFamily-sans);
+  font-family: var(--fontFamily-open);
   height: 100%;
   line-height: 1.6;
   scroll-behavior: smooth;
@@ -225,6 +223,10 @@ li {
   font-size: 0.9rem;
   margin: 10px 0px 2rem 0;
   text-align: center;
+}
+
+.gatsby-resp-image-figure {
+  margin-top: 4rem;
 }
 
 .home-link {
