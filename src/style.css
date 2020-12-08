@@ -1,7 +1,8 @@
 :root {
-  --fontFamily-sans: -apple-system, BlinkMacSystemFont, Helvetica Neue, Roboto,
+  --fontFamily-sans: 'Poppins', sans-serif;
+  /* --fontFamily-sans: -apple-system, BlinkMacSystemFont, Helvetica Neue, Roboto,
     Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI, Segoe UI Emoji,
-    Segoe UI Symbol, Noto Color Emoji;
+    Segoe UI Symbol, Noto Color Emoji; */
   --blue: #3f51b5;
   --black-font: #1b1d25;
   --codeBtn-blue: #5183f5;
@@ -136,7 +137,7 @@ section > h1 {
 .article-body > section > p,
 li {
   font-size: 1.2rem;
-  line-height: 1.7;
+  line-height: 1.5em;
 }
 
 .article-prev {
