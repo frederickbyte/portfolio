@@ -29,6 +29,7 @@ const MyMentor = () => {
         <article className="flex-column">
           <h1>MyMentor</h1>
           <div className="flex-row-wrap">
+            <div>Last Updated: 2020</div>
             <div className="tag tech">Xamarin</div>
             <div className="tag hobby">Android</div>
             <div className="tag culture">C#</div>

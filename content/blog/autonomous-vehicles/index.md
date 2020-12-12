@@ -5,16 +5,16 @@ date: '2020-11'
 category: 'tech'
 ---
 
-People become uncomfortable in the face of change. They are _especially_ uncomfortable with the idea of automation (robots/software replacing humans). Despite the fact that machines and software continue to increase our standard of living, most people still do not trust machines to perform the work that humans currently do. Recent [surveys](https://saferoads.org/wp-content/uploads/2020/01/AV-Public-Opinion-Polls-7-22-19.pdf) show:
+Most people are uncomfortable with change. Some are _especially_ uncomfortable with the idea of automation (robots/software replacing humans). Despite the fact that machines and software continue to increase our standard of living, most people still do not trust machines to perform the work that humans currently do. Recent [surveys](https://saferoads.org/wp-content/uploads/2020/01/AV-Public-Opinion-Polls-7-22-19.pdf) show:
 
 - 64% of Americans would _not_ buy a self-driving car
 - 71% of U.S. drivers would be _afraid_ to ride in a fully self-driving vehicle
 
-Despite the incredible work by engineers and other scientists, companies such as Tesla, Google, and Waymo have been unable to convince a majority of the population of the immense benefits of self-driving vehicles.
+Despite the incredible work by engineers and other scientists, corporations have been unable to convince a majority of the population of the immense benefits of self-driving vehicles. Tesla, Google, and Waymo are among the leaders in self-driving technology; they spend lots of time and resources presenting their hardware and software to the public. Still, many Americans do not trust autonomous vehicles.
 
 To an extent, these fears are understandable. Watching a car cruise around the road with no driver is unsettling. What happens if a young child runs into the road? Can we trust software to swerve out of the way and not hit other pedestrians? What if the software contains a bug and my car drives off a bridge?
 
-Those are all valid concerns, but they are ones that have _already been solved_ by the self-driving community. Even in its infancy, autonomous vehicles have proven themselves to drive safer than the average human  - and they will only get safer and more efficient.
+Those are all valid concerns, but they are ones that have _already been solved_ by the self-driving community. Even in its infancy, autonomous vehicles (AVs) have proven themselves to drive safer than the average human  - and they will only get safer and more efficient.
 
 ![Credit: Waymo](./waymo.png)
 
@@ -25,9 +25,14 @@ In this post, I’ll discuss:
 3. Autonomous vehicles will make roads safer and less congested
 4. Self-driving cars will only become safer and offer more luxurious riding experiences
 
-Note: _I am not arguing that we ban cars._ I am explaining why robots and software are far superior drivers and why we should embrace a transition to autonomous driving. Individuals and businesses should be free to persue any method of transportation they desire (so long as they not violate anyone else's rights of course). But a rational society is one that continues to improve its standard of living - self-driving vehicles _are_ a step in that direction.
+`I am not arguing that we ban cars.`
 
-Before diving into autonomous vehicles, why should we even care about vehicle safety at all?
+State and federal governments should leave individuals and businesses free to persue any mode of transportation they desire - autonomous or not.
+
+This discussion focuses on why robots and software are superior drivers and why we should embrace a transition to autonomous driving. A rational society is one that continues to improve its standard of living. Self-driving vehicles are a step in that direction.
+
+
+Before diving into AVs, why should we even care about vehicle safety at all? Aren't we driving sophisticated cars already?
 
 # Humans Are Dangerous Drivers
 

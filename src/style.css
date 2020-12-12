@@ -330,6 +330,11 @@ li {
   color: #111;
 }
 
+:not(pre) > code[class*="language-"] {
+  font-family: Poppins, sans-serif;
+  padding: .5em .2em;
+}
+
 [type="search"] {
   padding: 0.6rem 1rem;
   background: #f1f4f8;

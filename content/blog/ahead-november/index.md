@@ -36,7 +36,7 @@ To begin, President Trump has made a few quality decisions that I agree with. Th
 
 However the list of rights-violating, anti-individual policies and rhetoric vastly outnumbers the one above.
 
-President Trump has [imposed](https://en.wikipedia.org/wiki/Trump_tariffs#:~:text=As%20of%20January%202020%2C%20the,all%20U.S.%20imports%20in%202017).&text=Tariffs%20are%20expected%20to%20reduce,by%200.5%20percent%20in%202020.) tariffs on goods entering the country, which has raised the price Americans pay for those items.
+President Trump has [imposed](https://en.wikipedia.org/wiki/Trump_tariffs#:~:text=As%20of%20January%202020%2C%20the,all%20U.S.%20imports%20in%202017) tariffs on goods entering the country, which has raised the price Americans pay for those items.
 
 Trump also emphatically supported and signed the colossal COVID-19 [spending bill](https://www.washingtonpost.com/business/2020/03/25/trump-senate-coronavirus-economic-stimulus-2-trillion/) that will add trillions to the national debt and will devalue the worth of the US dollar (inflation). Despite his campaign promise to balance the budget, Trump's policies have [increased our debt](https://www.thebalance.com/trump-plans-to-reduce-national-debt-4114401) by trillions in just his first four years.
 
