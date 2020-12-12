@@ -6,7 +6,7 @@ category: 'politics, philosophy'
 ---
 Recent shutdowns due to COVID-19 have generated many arguments regarding the government's power and authority over its citizens.
 
-Can local governments force us to wear masks in the name of protecting others? Should the federal gov't mandate vaccines for its citizens? Should my state gov't be able to close bars and schools, and fine those who do not obey local mandates?
+Can local governments force us to wear masks in the name of protecting others? Should the federal gov't mandate vaccines for its citizens? Should my state gov't be able to close bars and schools and fine those who disobey local mandates?
 
 Although most Americans support either temporary shutdowns or [mask mandates](https://apnews.com/9126a38ef22c244f9ca18f9584061f8d), some have taken their local government to court to challenge the new wave of strict laws in response to the spread of COVID-19.
 

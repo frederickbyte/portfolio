@@ -5,9 +5,13 @@ date: '2020-07'
 category: 'politics, tech'
 ---
 
-The Senate Judiciary Committee recently [discussed and released](https://www.congress.gov/bill/116th-congress/senate-bill/3398) the EARN IT Act - an immoral, misguided, and dangerous bill. Its co-sponsors, Senators Lindsey Graham (R-SC) and Richard Blumenthal (D-CT), claim the Act will protect children by establishing a National Commission on Online Child Sexual Exploitation Prevention. But this is not the primary objective of the bill, merely a misdirection. Politicians often use flowery prose to hide their dangerous plans, offering fig leaves that entice voters to support their egregious rights-violating bills. This bill is another such instance.
+The federal government is trying to take control of the internet, again.
 
-The National Commission will not solve the problem of child sex trafficking. The Commission is a tool granting government both the authority to guide business and user behavior online and to read and collect user content to scan for suspicious content. Senators will use this bill as leverage during their town halls when trying to convince their delegation that they truly care about children. In reality, [EARN IT](https://www.congress.gov/116/bills/s3398/BILLS-116s3398is.pdf) will not make children safer. EARN IT is not about online safety, but about control.
+The Senate Judiciary Committee recently [discussed and released](https://www.congress.gov/bill/116th-congress/senate-bill/3398) the EARN IT Act - an immoral, misguided, and dangerous bill. Its co-sponsors, Senators Lindsey Graham (R-SC) and Richard Blumenthal (D-CT), claim the bill will protect children by establishing a National Commission on Online Child Sexual Exploitation Prevention.
+
+But this is not the primary objective of the bill, merely a misdirection. Politicians often use flowery prose to hide their dangerous plans, offering fig leaves that entice voters to support their egregious rights-violating bills. The EARN IT Act is another such instance.
+
+_The National Commission will not solve the problem of child sex trafficking._ The Commission is a tool granting government both the authority to guide business and user behavior online and to read and collect user content to scan for suspicious content. Senators will use this bill as leverage during their town halls when trying to convince their delegation that they truly care about children. In reality, [EARN IT](https://www.congress.gov/116/bills/s3398/BILLS-116s3398is.pdf) will not make children safer. EARN IT is not about online safety, but about control.
 
 EARN IT “directs the commission to develop best practices for interactive online services providers” and “requires interactive online service providers to certify compliance with the best practices.”
 
@@ -42,4 +46,6 @@ Child sex trafficking is something _all_ reasonable men should vehemently oppose
 
 # Speak out against EARN IT whenever possible
 
-All of us should vocally oppose EARN IT whenever possible, as it poses a direct threat to our individual freedom and to the freedoms of private businesses. **Government should have no role in telling individuals and corporations how to act or conduct themselves online**. Thankfully, much of the tech community is expressing serious opposition to this bill. I hope that you will too.
+Everyone should vocally oppose EARN IT whenever possible, as it poses a direct threat to our individual freedom and to the freedoms of private businesses. **Government should have no role in telling individuals and corporations how to act or conduct themselves online.** Government has no moral right to preemptively scan or censor user content, just as it has no moral right to force individuals to think a certain way. Rights apply to _all_ areas of life, including the internet.
+
+Thankfully, much of the tech community is expressing serious opposition to this bill. I hope that you will too.

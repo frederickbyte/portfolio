@@ -64,8 +64,17 @@ const BlogIndex = ({ data, location }) => {
 
   return (
     <Layout location={location} title={siteTitle}>
-      <SEO title="Home" keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
-      <h1 style={{ fontSize: `3rem` }}>{siteTitle}</h1>
+      <SEO title="Home" description={data.site.siteMetadata?.description} keywords={[`blog`, `gatsby`, `javascript`, `react`]} />
+      <h1 className="index-title">
+        {siteTitle}
+        <span
+          role="img"
+          aria-label="dot"
+          className="title-dot"
+        >
+          .
+        </span>
+      </h1>
       <Bio />
       <div className={"index-links"}>
         <a href={Pdf} rel="noopener noreferrer">

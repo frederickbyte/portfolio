@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { getClassForCategory } from "../components/utils.js"
+import Emoji from "../components/emoji"
 
 const BlogPostTemplate = ({ data, location }) => {
   const post = data.markdownRemark
@@ -68,6 +69,18 @@ const BlogPostTemplate = ({ data, location }) => {
           dangerouslySetInnerHTML={{ __html: post.html }}
           itemProp="articleBody"
         />
+        <div
+          style={{
+            display: `flex`,
+            alignItems: `center`,
+            justifyContent: `flex-end`,
+            marginBottom: `1rem`,
+          }}
+        >
+          <a className="to-top-btn" href="#gatsby-focus-wrapper">
+            Top <Emoji symbol="☝️" label="point up emoji" />
+          </a>
+        </div>
         <hr />
       </article>
       <nav>

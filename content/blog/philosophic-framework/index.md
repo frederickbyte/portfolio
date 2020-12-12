@@ -5,22 +5,24 @@ date: '2020-06'
 category: 'politics, philosophy'
 ---
 
-America is dying. Not by a virus or some natural disaster, but by suicide. Our country is more stressed, anxious, depressed, drug-addicted, and in debt than ever before. We blame each other and promise to act differently, but nothing changes.
+Ideas determine the course of history. Good ideas can bring a country unparalleled wealth and prosperity - bad ideas can destroy one. Virtuous ideas gave birth to America. We have since abandoned those ideas; as a result our country is dying.
 
-The root cause of the problems we see today are bad ideas. Only good ideas can change the direction in which we're heading. I hope that by sharing my ideas and by discussing current events we can work towards curing our culture and towards making life more free and more prosperous for all.
+People are more stressed, anxious, depressed, drug-addicted, and in debt than ever before. We blame each other and promise to act differently, but nothing changes. Politians make empty promises to "be better," but no substantial changes can be made until we challenge the fundamental premises by which we operate.
 
-With this being the first of many discussions we will have, it is appropriate for me to outline my worldview and to describe the ideas that guide my life. These ideas will be apparent in future posts, but it is important to lay the groundwork before examining any specific topic. This will be a summary, not an in-depth inspection of these ideas - it would take quite a while to comprehensively explain all of my convictions and where they come from.
+I hope that by sharing my ideas we can work towards curing our toxic culture and towards making life more free and more prosperous for everyone. Influencing a culture takes time. But so long as humans possess free will, we should make an effort to promote good ideas and denounce evil ones.
+
+With this being the first of many discussions we will have, it is appropriate for me to outline my worldview and to describe the ideas that guide my life. These ideas will be apparent in future posts, but it is important to lay the groundwork before examining any specific topic. This will be a summary, not an in-depth inspection of these ideas. It would take quite a while to comprehensively explain all of my convictions and where they come from.
 
 Here's a summary before we get into the details:
-1. Metaphysics: there is a **single, objective reality** that exists independent of consciousness. Everything that exists exists in this one reality. Everything that exists has a specific identity and can only act according to that identity.
+1. **Metaphysics:** there is a single, objective reality that exists independent of consciousness. Everything that exists exists in this one reality. Everything that exists has a specific identity and can only act according to that identity.
 
-2. Epistemology: we are capable of understanding reality through **logic** and **reason**, which are faculties of our minds. Understanding reality begins with perception, which leads to concept formation.
+2. **Epistemology:** we are capable of understanding reality through **logic** and **reason**, which are faculties of our minds. Understanding reality begins with perception, which leads to concept formation.
 
     We perceive things -> we think about what we saw -> we form concepts by identifying essential characteristics -> we create a mental hierarchy (file system) of those concepts
 
-3. Ethics: the goal of life is **to be happy**. Living and acting according to one's values and long-term goals is moral. Initiating force is immoral because it prevents others from living freely and achieving their happiness.
+3. **Ethics:** the goal of life is to **be happy**. Living and acting according to one's values and long-term goals is moral. Initiating force is immoral because it prevents others from living freely and achieving their happiness.
 
-4. Politics: governments are necessary to protect human life and freedom. A government's only legitimate purposes are to establish:
+4. **Politics:** governments are necessary to protect human life and freedom. A government's only legitimate purposes are to establish:
     - a **military** to defend against foreign invaders
     - a **police** to defend against local violence or force
     - a **court system** to arbitrate disputes and ensure contracts are fulfilled
@@ -93,6 +95,7 @@ These are both *necessary* and *sufficient* for a government to protect the righ
 _____
 
 In summary:
+
 Metaphysics: a single, objective reality exists
 
 Epistemology: our minds are capable of grasping reality
@@ -101,4 +104,4 @@ Ethics: set goals and work towards them to achieve happiness; do not initiate fo
 
 Politics: Laissez-fair capitalism, free of any regulations
 
-Please remember that no matter how violent and anarchic the world may seem, things can always get better. It will take some time - but the right ideas always win out in the end. We have reality on our side.
+Remember that no matter how violent and anarchic the world may seem, things can always get better. It will take some time - but the right ideas always win out in the end. We have reality on our side.

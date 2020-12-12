@@ -1,15 +1,11 @@
 :root {
-  --fontFamily-sans: 'Poppins', sans-serif;
-  /* --fontFamily-sans: -apple-system, BlinkMacSystemFont, Helvetica Neue, Roboto,
-    Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI, Segoe UI Emoji,
-    Segoe UI Symbol, Noto Color Emoji; */
+  --fontFamily-sans: "Poppins", sans-serif;
   --blue: #3f51b5;
   --black-font: #1b1d25;
   --codeBtn-blue: #5183f5;
   --codeBtn-blue-dark: #364fc7;
   --codeBtn-green: #4caf50;
   --codeBtn-green-dark: rgb(0, 100, 0);
-  font-size: 16px;
   margin: 0;
   padding: 0;
 }
@@ -20,6 +16,7 @@ html {
   background-color: #fff;
   box-sizing: border-box;
   font-family: var(--fontFamily-sans);
+  font-size: 16px;
   height: 100%;
   line-height: 1.6;
   scroll-behavior: smooth;
@@ -64,7 +61,7 @@ blockquote:before {
 
 blockquote p {
   display: inline;
-  font-size: 1.2rem;
+  /* font-size: 1.2rem; */
   line-height: 1.7;
 }
 
@@ -92,10 +89,6 @@ h5 {
 
 img {
   margin: 0 auto;
-}
-
-p {
-  font-size: 1.2rem;
 }
 
 .task-list-item {
@@ -127,7 +120,7 @@ main {
 }
 
 .article-body {
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
 }
 
 section > h1 {
@@ -136,7 +129,6 @@ section > h1 {
 
 .article-body > section > p,
 li {
-  font-size: 1.2rem;
   line-height: 1.5em;
 }
 
@@ -145,7 +137,6 @@ li {
   align-items: center;
   justify-content: space-between;
   color: #272727;
-  font-size: 1.15rem;
   margin-bottom: 3rem;
 }
 
@@ -158,7 +149,7 @@ li {
 }
 
 .article-prev-title {
-  font-size: 2rem;
+  font-size: 1.3rem;
   font-weight: 600;
   border-bottom: none;
   text-decoration: none;
@@ -171,13 +162,14 @@ li {
 .bio-body {
   color: #272727;
   font-family: var(--fontFamily-sans);
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   line-height: 1.4em;
   margin-top: 0;
 }
 
 .code-btn-blue {
   border: 2px solid var(--codeBtn-blue);
+  font-size: 16px;
   padding: 0.3rem 0.6rem;
   margin-right: 0.75rem;
   font-weight: 500;
@@ -193,6 +185,7 @@ li {
 
 .code-btn-green {
   border: 2px solid var(--codeBtn-green);
+  font-size: 16px;
   padding: 0.3rem 0.6rem;
   margin-right: 0.75rem;
   font-weight: 500;
@@ -251,17 +244,21 @@ li {
 
 .index-links > a {
   border-bottom: 2px dotted var(--blue);
-  font-size: 1.2rem;
 }
 
 .index-links > a:hover {
   border-bottom: 2px solid var(--blue);
 }
 
+.index-title {
+  font-size: 2.5rem;
+}
+
 .posts-header {
   display: flex;
   flex-wrap: wrap;
   align-items: flex-end;
+  justify-content: space-between;
 }
 
 .project {
@@ -272,7 +269,7 @@ li {
 }
 
 .project-title {
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   font-weight: 600;
 }
 
@@ -330,9 +327,24 @@ li {
   color: #111;
 }
 
+.title-dot {
+  color: #3b5bdb;
+  font-size: 2.5rem;
+}
+
+.to-top-btn {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.5em;
+  border: 3px #000 solid;
+  border-image-slice: 1 1 0 0;
+  box-shadow: 0.2em 0.3em var(--black-font);
+  text-decoration: none;
+}
+
 :not(pre) > code[class*="language-"] {
   font-family: Poppins, sans-serif;
-  padding: .5em .2em;
+  padding: 0.5em 0.2em;
 }
 
 [type="search"] {
@@ -345,13 +357,32 @@ li {
   border-radius: 0.35rem;
   font-size: 1rem;
   -webkit-appearance: none;
-  margin-left: 2rem;
+}
+
+@media screen and (min-width: 320px) {
+  html {
+    font-size: calc(16px + 5 * ((100vw - 320px) / 680));
+  }
+
+  .index-title,
+  .title-dot {
+    font-size: 1.5rem;
+  }
+}
+@media screen and (min-width: 1000px) {
+  html {
+    font-size: 21px;
+  }
+
+  .index-title,
+  .title-dot {
+    font-size: 2.5rem;
+  }
 }
 
 /* On screens that are 645px wide or less */
 @media screen and (max-width: 645px) {
   [type="search"] {
-    margin-left: 0px;
     margin-top: 1rem;
   }
 
