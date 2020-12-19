@@ -87,8 +87,6 @@ This is not to imply that self-driving vehicles are perfect. There are some majo
 
 Those are legitimate questions - ones that engineers will continue to work on for years. I may even discuss those issues in subsequent posts becuase they are interesting problems to explore. But what’s important for this discussion is to understand that self-driving vehicles, while a significant improvement over human drivers, are not perfect and face unique challenges.
 
-![Source: Tesla](./tesla-autopilot.jpg)
-
 Despite the challenges facing AV engineers, data shows impressive safety improvements over human drivers. Not only will AVs save lives - they will drastically improve our driving experience.
 
 

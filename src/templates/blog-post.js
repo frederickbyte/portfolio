@@ -49,6 +49,7 @@ const BlogPostTemplate = ({ data, location }) => {
               display: `flex`,
               alignItems: `center`,
               flexWrap: `wrap`,
+              marginBottom: `1rem`,
             }}
           >
             <div>{post.frontmatter.date}</div>

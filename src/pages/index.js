@@ -78,7 +78,7 @@ const BlogIndex = ({ data, location }) => {
       <Bio />
       <div className={"index-links"}>
         <a href={Pdf} rel="noopener noreferrer">
-          Resume
+          Resumé
         </a>
         <a href={githubLink} rel="noopener noreferrer">
           GitHub

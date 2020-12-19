@@ -5,12 +5,14 @@ date: '2020-10'
 category: 'politics, tech'
 ---
 
-All of us desire to live in a world of clean air, clear water, uncontaminated food. People want to live comfortably. But this requires energy - and _lots_ of it.
-Electricity use continues to rise as more of the world gains access to energy; this trend will not stop anytime soon. As the need for energy continues to grow, our methods for extracting and transporting it must evolve as well.
+We all desire to live in a world of clean air, clear water, and uncontaminated food. People want to live comfortably. But this requires energy - and _lots_ of it.
+Electricity use continues to rise as more of the world gains access to energy; this trend will not stop anytime soon.
+
+As the need for energy continues to grow, our methods for extracting and transporting it must evolve as well.
 Using dangerous, unreliable, or expensive methods of energy production quite literally prevents civilized society from existing.
 What modern, industrialized country do you know of that exists without an abundance of energy production?
 
-Electricity powers any and all advances in technology, medicine, banking, and infrastructure, to name just a few.
+Electricity powers all advances in technology, medicine, banking, and infrastructure, to name just a few.
 
 Although everyone agrees that we need an efficient, safe and economically sound method for producing electricity, our society is polarized by how to reach that goal.
 The solution has been staring us in the face for decades. _Nuclear energy_ is the answer to all of our energy problems - that is not hyperbole.
@@ -29,7 +31,7 @@ First, a quick glance at how people currently view this form of energy productio
 
 # The world hates nuclear power
 
-Nuclear fission, despite its potential for unparalleled energy production, continues to endure abuse by Hollywood, the media and most importantly, the general public.
+Nuclear fission, despite its potential for unparalleled energy production, continues to endure abuse by Hollywood, the media, and the general public.
 Opponents of nuclear power appeal primarily to fear-mongering or offer up impossible fringe scenarios to justify their position because the reality and historical record of nuclear power is unquestionably superb.
 
 Biased news reports and videos of Homer Simpson aimlessly trying to operate a nuclear plant flood our children's screens.
