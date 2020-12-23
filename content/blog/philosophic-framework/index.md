@@ -35,7 +35,7 @@ All other actions taken by government are immoral and invalid because they preve
 
 ---
 
-## 💡 Metaphysics
+# 💡 Metaphysics
 
 Metaphysics (the nature of reality) is the foundation of philosophy. I consider Aristotle and Ayn Rand to be the greatest contributors to philosophy - I agree with their fundamental ideas on reality and human nature. Rand sums up metaphysics beautifully with her signature phrase: Existence exists. This may sound obvious, but it is essential to developing a consistent view of the world.
 

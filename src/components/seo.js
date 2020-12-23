@@ -4,7 +4,7 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 import favicon from "../../static/favicon.png"
 
-const SEO = ({ description, lang, meta, title }) => {
+const SEO = ({ lang, meta, title }) => {
   const { site } = useStaticQuery(
     graphql`
       query {
@@ -21,7 +21,7 @@ const SEO = ({ description, lang, meta, title }) => {
     `
   )
 
-  const metaDescription = description || site.siteMetadata.description
+  const metaDescription = "Portfolio and blog of Andrew Stolzle. Andrew is a software developer."
   const defaultTitle = site.siteMetadata?.title
 
   return (
@@ -55,10 +55,11 @@ const SEO = ({ description, lang, meta, title }) => {
         name="viewport"
         content="width=device-width, initial-scale=1"
       ></meta>
+      <meta http-equiv="X-UA-Compatible" content="ie=edge"></meta>
       <link rel="icon" href={favicon} />
       <link rel="preconnect" href="https://fonts.gstatic.com"></link>
       <link
-        href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
+        href="https://fonts.googleapis.com/css2?family=Literata:wght@400;700&family=Red+Hat+Display:wght@400;700;900&display=swap"
         rel="stylesheet"
       ></link>
     </Helmet>

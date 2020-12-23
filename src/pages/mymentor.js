@@ -7,25 +7,8 @@ const MyMentor = () => {
   return (
     <Layout id="index_layout" location="mymentor">
       <SEO title="MyMentor" />
-      <div className="flex-column">
-        <Link to="/" className="home-link">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            fill="none"
-            viewBox="0 0 24 24"
-            height="24"
-            width="24"
-            stroke="#1b1d25"
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth="2"
-              d="M10 19l-7-7m0 0l7-7m-7 7h18"
-            />
-          </svg>
-          <span style={{ marginLeft: `5px` }}>Home</span>
-        </Link>
+      <div className="wrapper flex-column">
+        <Link to="/">Home</Link>
         <article className="flex-column">
           <h1>MyMentor</h1>
           <div className="flex-row-wrap">
@@ -37,15 +20,15 @@ const MyMentor = () => {
             <div className="tag politics">.NET</div>
           </div>
           <p>
-            This was a project originally designed for my university computer
-            science course. The goal of MyMentor is to provide a platform that
-            teachers can use to help mentor students in both their inter- and
-            extra-curricular needs. MyMentor aims to foster professional, yet
-            personal relationships between students and teachers. These
-            relationships will help students throughout their college journey
-            and beyond by allowing them to easily communicate with peers and
-            professors so that they have access to all of the support they need
-            to succeed at their University.
+            This project was designed for my university computer science course.
+            The goal of MyMentor is to provide a platform that teachers can use
+            to help mentor students in both their inter- and extra-curricular
+            needs. MyMentor aims to foster professional, yet personal
+            relationships between students and teachers. These relationships
+            will help students throughout their college journey and beyond by
+            allowing them to easily communicate with peers and professors so
+            that they have access to all of the support they need to succeed at
+            their University.
           </p>
           <figure className="project-image">
             <img

@@ -46,6 +46,10 @@ Child sex trafficking is something _all_ reasonable men should vehemently oppose
 
 # Speak out against EARN IT whenever possible
 
-Everyone should vocally oppose EARN IT whenever possible, as it poses a direct threat to our individual freedom and to the freedoms of private businesses. **Government should have no role in telling individuals and corporations how to act or conduct themselves online.** Government has no moral right to preemptively scan or censor user content, just as it has no moral right to force individuals to think a certain way. Rights apply to _all_ areas of life, including the internet.
+Everyone should vocally oppose EARN IT whenever possible because it poses a direct threat to our individual freedom and to the freedoms of private businesses.
+
+**Government should have no role in telling individuals and corporations how to act or conduct themselves online.**
+
+Government has no moral right to preemptively scan or censor user content, just as it has no moral right to force individuals to think a certain way. Rights apply to _all_ areas of life, including the internet.
 
 Thankfully, much of the tech community is expressing serious opposition to this bill. I hope that you will too.

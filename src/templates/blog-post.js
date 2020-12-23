@@ -19,24 +19,7 @@ const BlogPostTemplate = ({ data, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
-      <Link to="/" className="home-link">
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          fill="none"
-          viewBox="0 0 24 24"
-          height="24"
-          width="24"
-          stroke="#1b1d25"
-        >
-          <path
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            strokeWidth="2"
-            d="M10 19l-7-7m0 0l7-7m-7 7h18"
-          />
-        </svg>
-        <span style={{ marginLeft: `5px` }}>Home</span>
-      </Link>
+      <Link to="/">Return Home</Link>
       <article
         className="article-body"
         itemScope
