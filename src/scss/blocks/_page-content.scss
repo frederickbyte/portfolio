@@ -1,0 +1,92 @@
+.page-content {
+  @include apply-utility('leading', 'loose');
+
+  > * {
+    @include apply-utility('measure', 'long');
+  }
+
+  blockquote {
+    border-inline-start: get-size('300') solid get-color('quinary');
+    padding-inline-start: get-size('600');
+    padding-top: get-size('500');
+    padding-bottom: get-size('500');
+    font-style: italic;
+  }
+
+  h2 {
+    font-size: get-size('700');
+  }
+
+  h3 {
+    font-size: get-size('600');
+  }
+
+  ol,
+  ul {
+    padding-inline-start: get-size('800');
+  }
+
+  li + li {
+    margin-top: get-size('300');
+  }
+
+  // Add a greater flow space for heading elements so
+  // they appear more like article sections
+  h2,
+  h3 {
+    --flow-space: #{get-size('800')};
+  }
+
+  // Add tighter flow for elements that follow a heading
+  h2 + *,
+  h3 + * {
+    --flow-space: #{get-size('300')};
+  }
+
+  // Horizontal rules should stretch across available width.
+  hr {
+    max-width: 100%;
+  }
+
+  figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  figcaption {
+    text-align: center;
+  }
+
+  img {
+    max-height: 30rem;
+  }
+
+  .callout {
+    &__info {
+      position: relative;
+      padding: 1.3rem 2rem;
+      font-size: 1.1em;
+      margin: 2em 0;
+      border: 3px solid;
+      border-radius: 6px;
+      transition: background 350ms ease 0s;
+      width: fit-content;
+      background: get-color('light-shade');
+      border-color: get-color('dark-shade');
+      p {
+        font-size: get-size('500');
+      }
+    }
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  th,
+  td {
+    border: 1px solid gray;
+    padding: get-size('300');
+  }
+}

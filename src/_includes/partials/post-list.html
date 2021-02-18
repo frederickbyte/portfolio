@@ -1,0 +1,25 @@
+<div class="[ dot-shadow panel ] [ bg-tertiary-glare ]" id="post-list">
+  <div class="[ wrapper ] [ flow flow-space-700 ]">
+    {% if postListHeadline %}
+    <h2 class="[ headline ] [ measure-micro ]" data-highlight="primary">{{ postListHeadline }}</h2>
+    {% endif %}
+    <div>
+      <ol class="[ post-list ] [ flow ]">
+        {% for item in postListItems %}
+        <li class="[ post-list__item ] [ leading-tight measure-long ]">
+          <div class="[ post-list__meta ]"">
+            <small>{{ item.data.date | postDateFilter }}</small>
+            {% for tag in item.data.tags %}
+            <small>
+              #{{ tag | title | replace(' ', '') }}
+            </small>
+            {% endfor %}
+          </div>
+          <a href="{{ item.url }}" class="post-list__link">{{ item.data.title }}</a>
+          <p>{{ item.data.description }}</p>
+        </li>
+        {% endfor %}
+      </ol>
+    </div>
+  </div>
+</div>

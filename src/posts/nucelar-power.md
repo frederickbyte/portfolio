@@ -1,0 +1,259 @@
+---
+title: The Necessity of Nuclear Power
+description: Why the West should embrace nuclear fission.
+date: '2020-10-01'
+tags: ['politics', 'tech']
+---
+
+We all desire to live in a world of clean air, clear water, and uncontaminated food. People want to live comfortably. But this requires energy - and _lots_ of it.
+Electricity use continues to rise as more of the world gains access to energy; this trend will not stop anytime soon.
+
+As the need for energy continues to grow, our methods for extracting and transporting it must evolve as well.
+Using dangerous, unreliable, or expensive methods of energy production quite literally prevents civilized society from existing.
+What modern, industrialized country do you know of that exists without an abundance of energy production?
+
+Electricity powers all advances in technology, medicine, banking, and infrastructure, to name just a few.
+
+Although everyone agrees that we need an efficient, safe and economically sound method for producing electricity, our society is polarized by how to reach that goal.
+The solution has been staring us in the face for decades. _Nuclear energy_ is the answer to all of our energy problems - that is not hyperbole.
+
+Next, I will discuss why nuclear fission (the splitting of uranium atoms to generate heat) is **objectively the greatest producer of energy available**.
+In fact, there is no question that nuclear fission is astronomically superior to all other forms of energy production we currently employ.
+
+I make these claims _confidently_ because nuclear energy, as we will shortly see, is:
+
+1. energy-dense
+2. safe
+3. reliable
+4. clean
+
+First, a quick glance at how people currently view this form of energy production.
+
+# The world hates nuclear power
+
+Nuclear fission, despite its potential for unparalleled energy production, continues to endure abuse by Hollywood, the media, and the general public.
+Opponents of nuclear power appeal primarily to fear-mongering or offer up impossible fringe scenarios to justify their position because the reality and historical record of nuclear power is unquestionably superb.
+
+Biased news reports and videos of Homer Simpson aimlessly trying to operate a nuclear plant flood our children's screens.
+The only information or news we receive about nuclear power is negative; it’s no wonder why so many resent such a transformative solution to our energy demand problem.
+Television shows are [wrong](https://www.energy.gov/ne/articles/7-things-simpsons-got-wrong-about-nuclear) in their depictions of nuclear power - but that does not matter to the average person.
+Audiences ingest and accept these emotional messages before invoking any serious though. The damage is done and their hatred of nuclear power is settled into their subconscious.
+
+Media channels ignore the rational justifications for nuclear fission and continue to paint the industry with an apocalyptic brush while refusing to discuss core arguments.
+
+Emotional manipulation is a powerful but dishonest tool of persuasion. Gone are the days where people discuss ideas or principles. He who shouts the loudest or cries the hardest wins, regardless of the content of his words.
+
+Despite the obvious need for nuclear energy, America continues to distance itself from the technology.
+Nuclear reactors are the victim of costly [regulations](https://www.nrc.gov/reactors/operating/ops-experience/post-fukushima-safety-enhancements.html) and of unfair competition with wind and solar power, which receive billions of dollars annually in [subsidies](https://www.eia.gov/analysis/requests/subsidy/) in order to combat "climate change."
+
+<div class="callout__info">
+  <h4>✋ Why did you put quotes around "climate change"?</h4>
+  <br/>
+  <p>I surround that phrase in quotes because it is a <a href="http://aynrandlexicon.com/lexicon/package-dealing,_fallacy_of.html">package-deal</a>, meaning the phrase implies a number of incorrect and contradictory concepts.</p>
+  <p>When Americans use the phrase "climate change", they do not simply mean that "the climate is changing." Climate change typically carries the following implicit ideas:</p>
+  <ol>
+    <li>The current climate is far more deadly and unstable than in pre-industrial society</li>
+    <li>Earth's air, water, and land are as dirty as ever due to human activity</li>
+    <li>Humans continue to destroy the planet, moving us closer to a climate cataclysm</li>
+    <li>The only way to reverse course is to reduce our energy use and to move away from current methods of power-production</li>
+  </ol>
+</div>
+
+Climate change is a topic for another day - we could spend all week discussing it! What's important to remember is that opponents of nuclear power point to climate change as part of their rationale for opposing fission. Climate change is just one of many concerns Americans have regarding fission.
+
+<div class="callout__info">
+  <h4>⚠️ Common concerns regarding nuclear power:</h4>
+  <br/>
+  <ul>
+    <li>radiation leaking into air/water/ground</li>
+    <li>nuclear explosion</li>
+    <li>hacking/stealing of material by terrorist groups</li>
+    <li>nuclear weapon proliferation</li>
+  </ul>
+</div>
+
+Some of those concers are valid and legitimate - some are impossible.
+After analyzing the history and facts surrounding nuclear power, there is **no question that it can provide cheap, safe, and reliable power.**
+Severe government intervention into the nuclear sector is what _truly_ prevents the industry from growing.
+
+If set free from the suffocating grip of the federal government, nuclear power can provide a strong, stable, and affordable stream of electricity to the entire country.
+
+# Nuclear power is energy-dense
+
+Nuclear fission is the most _energy dense_ form of energy available.
+
+A pellet of nuclear fuel (e.g. uranium) weighs approximately 6 grams - lighter than your stick of lip balm.
+Despite its size, a single uranium pellet yields the amount of energy equivalent to that generated by a ton of coal, ~120 gallons of oil or ~17,000 cubic feet of natural gas [source](https://www.nei.org/fundamentals/nuclear-fuel).
+This means it takes significantly smaller amounts of nuclear fuel to produce the same amount of energy as fossil fuels.
+
+Nuclear fission has the highest _capacity factor_ of any fuel source available.
+Capacity factor is a measure of what percentage of the time a power plant actually produces energy. A higher value indicates that nuclear plants can supply power to people at higher rates than all other sources.
+With nuclar power, we would not have to worry about the reliability of electricity (more on reliability below).
+
+<figure>
+  <img src="/posts/capacity_factor.png" alt="Source: U.S. Energy Information Administration"/>
+  <figcaption>Source: U.S. Energy Information Administration</figcaption>
+</figure>
+
+Abhishek Shah [describes](https://www.greenworldinvestor.com/2011/07/07/nuclear-energy-efficiency-vs-fossil-fuels-oilgas-in-power-load-factorsenergy-density-and-waste/) the superiority of nuclear power's capacity and load factors:
+
+> Nuclear Power Plants have one of the highest load factors in the power industry.
+> Nuclear Power Plants do not suffer from fuel shortages (except exceptional cases) like thermal coal power plants (eg. India).
+> Nuclear power plants account for about 11 percent of America’s total electricity generation capacity, but because they operate at high levels of efficiency and reliability, they produce nearly 20 percent of the country’s annual electricity supply.
+> U.S. nuclear power plants have performed at an average industry capacity factor of more than 87 percent for the past seven years.
+
+Natural gas and coal capacity factors are generally lower because they require maintenance and refueling at a higher frequency than nuclear plants.
+Nuclear plants do no suffer these frequent shutdowns due to uranium and thorium's power densities.
+Because nuclear plants require far fewer raw material to create electricity, there is substantially less of a chance for something to go wrong.
+
+<div class="callout__info">
+  <b>A high capacity factor leads to:</b>
+  <p>✔️ more time producing power</p>
+  <p>✔️ more reliable stream of energy during times of extreme weather</p>
+  <p>✔️ less accidents</p>
+  <p>✔️ less maintenance</p>
+</div>
+
+Again, this is not to disparage fossil fuels. Oil and gas have served us well and continue to power millions of homes and businesses. But they should not be the only large-scale source of electricity production. Nuclear fission would be a wonderful compliment to fossil and non-fossil fuels, but public paranoia and misinformation continue to shackle the industry.
+
+In summary, _uranium and thorium fission are the most energy-dense forms of electricity production._
+
+# Nuclear power is safe
+
+Nuclear fission is the _safest_ form of energy available.
+
+Nuclear fission plants reactors are among the safest, most efficient technologies man has ever created. This is because fission differs fundamentally from other energy sources as it yields power from splitting atoms rather than burning chemicals.
+
+Generating, containing and transporting electricity is innately a dangerous and difficult task, but it is a necessary one.
+Everything we see and interact with depends on it. Modern life is _impossible_ without continuous, reliable streams of electrons.
+
+Nonetheless, opponents of nuclear power consistently argue that it is far too dangerous for a civilized society to use.
+
+We hear that "a spill of radioactive waste can destroy an entire city!" There is no evidence that this scenario is remotely possible.
+A nuclear power plant blowing up like a nuclear bomb is [physically impossible](https://science.fusion4freedom.com/why-a-nuclear-reactor-cannot-explode-like-an-atom-bomb/#:~:text=Explosions,needs%20to%20be%20energy%20dense.&text=The%20destruction%20at%20Chernobyl%20was%20caused%20by%20a%20steam%20explosion.).
+Not just unlikely, but impossible. Laws of physics would have to be broken for such a situation to occur.
+
+Not only are nuclear explosions impossible, but not a single death or serious illness has been directly attributed to nuclear fission in America’s history - a tremendous testament to the safety and reliability of nuclear fission.
+
+For nuclear power to reach such life-threatening levels of coal burning, University of Pittsburgh professor Bernard Cohen [estimates](http://www.phyast.pitt.edu/~blc/book/chapter8.html) that there would need to be 25 reactor meltdowns per year.
+Since there **hasn’t been a single complete meltdown in America’s history**, 25 incidences per year is nothing but a fairy tale.
+
+<div class="callout__info">
+  <h4>⚠️ Death rates from energy production per TWh</h4>
+  <br/>
+  <p>
+    Death rates from air pollution and accidents related to energy production,
+    measured in deaths per terawatt hours (TWh).
+  </p>
+  <br/>
+  <table>
+    <thead>
+      <tr>
+        <th>Source</th>
+        <th>Deaths per TWh</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Brown coal</td>
+        <td>24.6</td>
+      </tr>
+      <tr>
+        <td>Oil</td>
+        <td>18.4</td>
+      </tr>
+      <tr>
+        <td>Biomass</td>
+        <td>4.6</td>
+      </tr>
+      <tr>
+        <td>Gas</td>
+        <td>2.8</td>
+      </tr>
+      <tr>
+        <td><b>Nuclear</b></td>
+        <td><b>0.07</b></td>
+      </tr>
+    </tbody>
+  </table>
+  <a href="https://ourworldindata.org/grapher/death-rates-from-energy-production-per-twh">Data source</a>
+</div>
+
+Historically, three major accidents have occurred in over 17,000 cumulative reactor-years of commercial nuclear power operation in 33 countries.
+One such accident occurred in the United States, where nobody was killed or injured.
+[Chernobyl](https://en.wikipedia.org/wiki/Chernobyl_disaster) is the incident all opponents point to as proof of nuclear power's lack of safety.
+Authors have written books about this accident so I will not go into detail here.
+The Chernobyl disaster is a result of the oppressive government ownership of a country's power supply.
+
+Such a disaster is nearly [impossible](https://www.world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident.aspx) at a free, privately-owned nuclear power plant.
+As with any industry, private businesses have an incentive to provide high-quality, safe, and effective products to their customers; that is how they profit. Nuclear power is no different. Every company would
+take the requisite safety precautions and keep their power plants up-to-date becuase that is the _only_ way they would attract customers and make money.
+
+The types of [reactors](https://www.businessinsider.com/chernobyl-meltdown-no-graphite-us-nuclear-reactors-2016-4) that exist today cannot experience a meltdown like the one at Chernobyl.
+In short, another Chernobyl will not happen in a free society that uses nuclear power.
+
+Opponents of nuclear power often point to "nuclear accidents" in an attempt to instill fear on their audience, despite the fact that all of these incidences (except for Chernobyl and Fukushima) resulted in no deaths or serious injury.
+
+Many refer to the Three Mile Island [accident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident) in 1979 as a core argument against the safety in nuclear power. The "incident" resulted in no injury or lives lost.
+
+In fact, here is part of what the US Nuclear Regulatory Commission [says](https://www.nrc.gov/reading-rm/doc-collections/fact-sheets/3mile-isle.html) about the health effects of the event:
+
+> The approximately 2 million people around TMI-2 during the accident are estimated to have received an average radiation dose of only about 1 millirem above the usual background dose.
+> To put this into context, exposure from a chest X-ray is about 6 millirem and the area’s natural radioactive background dose is about 100-125 millirem per year… In spite of serious damage to the reactor,
+> the actual release had negligible effects on the physical health of individuals or the environment.
+
+We could spend all day looking at each historical event. But the case is clear: nuclear power is safe.
+
+Not only is it safe, but nuclear power is the _safest form of major energy production_.
+
+# Nuclear power is reliable
+
+Nuclear fission is the most _reliable_ form of energy available.
+
+Engineers design nuclear power plants to operate for longer stretches before [refueling](https://www.nei.org/news/2020/why-refuel-plant-during-pandemic#:~:text=Reactors%20run%20smoothly%20and%20reliably,are%20periods%20of%20intense%20activity.) compared to fossil fuels - typically every 1 or 2 years.
+
+Nuclear plants are far more reliable than fossil fuel generation facilities.
+In [2019](https://www.energy.gov/ne/articles/5-fast-facts-about-nuclear-energy), nuclear plants worked at full capacity 93% of the time.
+For comparison, consider the operating times for other energy-generating sources: coal plants (54%), natural gas plants (55%), hydroelectric (38.2%), wind generators (37%) and solar plants (27%).
+No other fuel source is remotely as reliable as nuclear fission.
+
+Despite the cultural popularity of renewable sources such as solar and wind, they are among the least reliable sources of electricity due to the intermittent nature of their energy sources - the sun and wind.
+
+Renewable plants are intermittent (i.e. unreliable) and are limited by a lack of fuel (for example the wind and sun do not provide continuous power). Therefore, these plants require a backup power source; often these backup sources are, ironically, fossil fuel plants.
+
+Reliability is an inescapable problem; if a fuel source can not consistently provide power to the people, that grow will only be able to operate and grow while the power is on. In the case of nuclear fission, the power is on almost all of the time.
+
+In essence, _nuclear power is the most reliable form of major energy production available_.
+
+# Nuclear power is clean
+
+Nuclear fission is the _cleanest_ form of energy available.
+
+Consequently, nuclear reactors emit zero carbon emissions. Although mining for and transporting uranium do involve burning fossil fuels (transportation the fuel from mine to power plant via trucks), nuclear fission requires no burning, hence no CO2.
+
+**Nuclear power releases less radiation into the air than any other major energy source**.
+
+In fact, nuclear waste is far cleaner and [less radioactive](https://www.scientificamerican.com/article/coal-ash-is-more-radioactive-than-nuclear-waste/) than coal ash.
+Hardly anyone bats an eye when ash is spewed into the atmosphere because we are used to seeing it. But people cringe when they heard the words "nuclear waste."
+In reality, waste from a nuclea plant is well contained and less dangerous than the ash produced from the thousands of coal plants in this country.
+
+As we discussed above, a major benefit of uranium's energy density is the decrease in waste from a nuclear plant as opposed to fossil fuel plants that require far greater volumes of raw material to produce equivalent levels of energy.
+
+Most U.S. spent fuel, more than 90 percent of which could be recycled to extend nuclear power production by hundreds of years, is stored at present safely in impenetrable concrete-and-steel dry casks on the grounds of operating reactors, its radiation slowly declining.
+
+The [U.S. Waste Isolation Pilot Plant](https://en.wikipedia.org/wiki/Waste_Isolation_Pilot_Plant) (WIPP) in New Mexico currently stores low-level and transuranic military waste and could store commercial nuclear waste in a 2-kilometer thick bed of crystalline salt, the remains of an ancient sea.
+The salt formation extends from southern New Mexico all the way northeast to southwestern Kansas. It can [accommodate](https://99percentinvisible.org/episode/ten-thousand-years/) the entire world’s nuclear waste for the next thousand years. Only politics stands in the way.
+
+In essence, _nuclear power is the cleanest form of major energy production available_.
+
+<aside class="callout_info">
+  <h4>⚡ Nuclear power will change the world</h4>
+  <br/>
+  <p>From this discussion we can see that nuclear energy is:</p>
+  <ul>
+    <li>extremely energy-dense</li>
+    <li>safe</li>
+    <li>reliable</li>
+    <li>clean</li>
+  </ul>
+</aside>

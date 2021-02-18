@@ -1,0 +1,8 @@
+.key-facts {
+  --auto-grid-gap: #{get-size('800') get-size('500')};
+
+  li > * {
+    display: block;
+    text-align: center;
+  }
+}

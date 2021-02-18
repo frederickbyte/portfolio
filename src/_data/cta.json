@@ -1,0 +1,10 @@
+{
+  "title": "Info you may like",
+  "summary": "For you curious folks, here are some links to view my personal information.",
+  "primaryButtonText": "LinkedIn",
+  "primaryButtonUrl": "https://linkedin.com/in/frederick-stolzle",
+  "secondaryButtonText": "GitHub",
+  "secondaryButtonUrl": "https://github.com/frederickbyte",
+  "tertiaryButtonText": "Résumé",
+  "tertiaryButtonUrl": "/resume.pdf"
+}

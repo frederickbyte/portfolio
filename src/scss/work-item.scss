@@ -1,0 +1,34 @@
+// First up: config and functions
+@import 'config';
+
+// Set Gorko to output no CSS for this file
+$outputTokenCSS: false;
+
+// Next: pull in Gorko for design tokens
+@import '../../node_modules/gorko/gorko.scss';
+
+// Pull in blocks
+@import 'blocks/hero';
+@import 'blocks/key-facts';
+@import 'blocks/page-content';
+
+.callout {
+  &__info {
+    position: relative;
+    padding: 1.3rem 2rem;
+    font-size: 1.1em;
+    margin: 2em 0;
+    border: 3px solid;
+    border-radius: 6px;
+    transition: background 350ms ease 0s;
+    width: fit-content;
+    background: get-color('light-shade');
+    border-color: get-color('dark-shade');
+    p {
+      font-size: get-size('500');
+    }
+    img {
+      max-height: 20rem;
+    }
+  }
+}
