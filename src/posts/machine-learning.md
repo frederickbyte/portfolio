@@ -18,23 +18,23 @@ that one day I may be able to contribute to a community that will, quite literal
   <p>📝 Note (something I find interesting)</p>
 </div>
 
-# Long-Term Goals
+# Fundamentals
 
 I'm beginning with [Hands-On Maching Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), a book the ML community highly recommends. [Practical Statistics for Data Scientists
 ](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/) is another book I will reference along the way. I also had the pleasure of stumbling upon
-Victor Zhou's [website](https://victorzhou.com/), where he writes about both topics and many others.
+Victor Zhou's [website](https://victorzhou.com/), where he writes about ML and other topics.
 
-- [x] Python basics
-- [ ] Pandas
-- [ ] Keras
-- [ ] TensorFlow
-- [ ] SciKit-learn
+- Python basics
+- Pandas
+- Keras
+- TensorFlow
+- SciKit-learn
 
 # Intermediate Goals
 
-- [ ] Neural Networks (general principles)
-- [ ] Convolutional neural networks
-- [ ] Recurrent neural networks
+- Neural Networks (general principles)
+- Convolutional neural networks
+- Recurrent neural networks
 
 # Part I of the journey
 

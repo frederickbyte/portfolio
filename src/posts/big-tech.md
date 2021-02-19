@@ -5,7 +5,7 @@ date: '2021-01-10'
 tags: ['politics', 'tech']
 ---
 
-Americans hate successful companies. We verbally assault technology companies more than any other group.
+Americans hate successful businesses, and we verbally assault technology companies more than any other group.
 Amazon, Apple, Google, Microsoft, Facebook, and Twitter are the primary victims of public anger and acrimony.
 Venomous resentment toward them is not due to any specific action they've taken, but due to their **size and success**.
 
@@ -18,10 +18,10 @@ It is no coincidence that the most hated corporations are also the largest and m
 
 Why is this a bad thing? Don't we have a right to be concerned about people lying online? Haven't social media sites made the country more polarized?
 
-I agree that we have _serious_ cultural problems today. Americans are becoming increasingly aggressive towards each other.
+I agree that we have _serious_ cultural problems. Americans are becoming increasingly aggressive towards each other.
 Fewer and fewer people care about discussing ideas and would rather resort to name-calling, slander, and even to initiating violence.
 
-The problems we face are not a result of Big Tech's supposed "influence over us" - they are a result of <span class="color-quinary-shade"><b>bad philosophic ideas</b></span> that our society has accepted.
+But the problems we face are not a result of Big Tech's supposed "influence over us" - they are a result of <span class="color-quinary-shade"><b>bad philosophic ideas</b></span> that our society has accepted.
 These problems are exacerbated by a corrupt and destructive public education system. Tech companies are not the problem. **American culture is.**
 
 Our focus is on software rather than on the disastrous ideas being spread by politicians, celebrities, and schools. Ideas make life better or worse, but no one cares to discuss them.
@@ -79,7 +79,7 @@ Facebook is not holding anyone hostage and forcing them to create an account.
 Individuals <u>choose</u> to buy the products and use the services tech companies offer because they make our lives better. Modern life is _impossible_ without Big Tech.
 Smartphones, laptops, tablets, and video streaming are some of the many tools built and provided by the corporations we condemn.
 
-Rather than vilify tech companies, we should be *praising* them. Our lives are far better and more enjoyable because they exist.
+Rather than vilify tech companies, we should be _praising_ them. Our lives are far better and more enjoyable because they exist.
 Businesses have the (relative) freedom to pursue profit - and customers benefit.
 But despite their productivity, tech companies continue to endure abuse from political and cultural leaders.
 
@@ -107,8 +107,11 @@ We should welcome and appreciate cooperation between companies on issues like te
 Instead, individuals like Hawley argue that tech companies are secretly meeting and sharing information so that they can simultaneously [shadow ban](https://en.wikipedia.org/wiki/Shadow_banning) or censor posts made by Republicans.
 He is not the only one claiming such malfeasance.
 
-Ben Shapiro, popular conservative commentator, recently went on a [diatribe](https://twitter.com/benshapiro/status/1348292928591032325) regarding the need for government oversight of tech companies who, he claims, are becoming monopolies.
-Shapiro often speaks about he supposed "censorship" of conservative posts on social media.
+Ben Shapiro, popular conservative commentator, recently went on a [diatribe](https://twitter.com/benshapiro/status/1348292928591032325) regarding the need for government oversight of tech companies who, he claims, are becoming monopolies. Here is the beginning of his rant against social media platforms:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Imagine if, in the midst of the massive BLM riots this summer, the entire tech infrastructure had deplatformed Facebook because some had used that app to plan events devolving into violence. People would rightly have called that an insane act of ideological fascism.</p>&mdash; Ben Shapiro (@benshapiro) <a href="https://twitter.com/benshapiro/status/1348292928591032325?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Shapiro and other pundits often speak about he supposed "censorship" of conservative posts on social media.
 
 <div class="callout__info">
   <h4>✋ You put "censorship" in quotes too?</h4>
