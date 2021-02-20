@@ -57,27 +57,26 @@ Until recently, humans were the only things remotely capable of controlling a ve
 
 # Autonomous Vehicles Are Safe
 
-Despite how young self-driving vehicles are, we have a plethora of data to analyze. [Tesla](https://www.tesla.com/VehicleSafetyReport#:~:text=had%20Autopilot%20engaged.-,For%20those%20driving%20without%20Autopilot%20but%20with%20our%20active%20safety,every%201.26%20million%20miles%20driven.) and [Waymo](https://waymo.com/safety/) are the leaders
-in autonomous vehicle data.
+Despite how young self-driving vehicles are, we have a plethora of data to analyze. [Tesla](https://www.tesla.com) and [Waymo](https://waymo.com/) are the leaders in autonomous vehicle data.
 
 Tesla and Waymo and are the leaders in autonomous vehicle data. Tesla has [accumulated](https://electrek.co/2020/04/22/tesla-autopilot-data-3-billion-miles/) over **3 billion miles** in Autopilot mode since 2014. Waymo has [tested](https://www.cnet.com/news/waymo-driverless-cars-have-driven-20-million-miles-on-public-roads/) its vehicles by driving **over 20 million miles** on public roads and tens of billions of miles in simulation.
 
 Americans [drive](https://www.rand.org/content/dam/rand/pubs/research_reports/RR1400/RR1478/RAND_RR1478.pdf) a cumulative 3 trillion miles annually, so autonomous vehicle companies have some catching up to do. Nonetheless, we are in a position to begin comparing robot drivers to humans.
 
-In the most recent quarter, [Tesla’s](https://www.tesla.com/VehicleSafetyReport) autonomous vehicles were **~10x safer** than the average driver. Here is a snippet from their most recent safety report:
+In the 3rd quarter of 2020 (time of writing this article), Tesla’s autopilot system was **~10x safer** than the average driver. Here is a snippet from their most recent [safety report](https://www.tesla.com/VehicleSafetyReport):
 
-> In the 3rd quarter, we registered _one accident for every 4.59 million miles driven in which drivers had Autopilot engaged_. For those driving without
+> In the 3rd quarter, we registered _one accident for every 4.59 million miles driven in which drivers had <u>Autopilot</u> engaged_. For those driving without
 > Autopilot but with our active safety features, we registered one accident for every 2.42 million miles driven. For those driving without Autopilot and
 > without our active safety features, we registered one accident for every 1.79 million miles driven. By comparison, NHTSA’s most recent data shows that
 > _in the United States there is an automobile crash every 479,000 miles_.
 
 Waymo’s [results](https://storage.googleapis.com/sdc-prod/v1/safety-report/Waymo-Public-Road-Safety-Performance-Data.pdf) are equally impressive. In over 6.1 million miles of automated driving (roughly 500 years worth of driving for one person), Waymo’s self-driving vehicles were involved in 18 contact events - none of which resulted in serious injury. Many of these “contact events” were fender-benders or sideswipes due to improper lane changes or failure to yield.
 
-Self-driving cars have one mission: focus on the road. Every sensor and line of code has a purpose. Robot drivers are not susceptible to road rage, emotional distraction, or sandwich-eating. Autonomous vehicles need not adjust their seatbelt, talk on the phone with their friend, or drive drunk.
+Self-driving cars have one prime directive: **focus on the road.** Every sensor and every line of code exists to serve that purpose. Robot drivers are not susceptible to road rage, emotional distraction, or sandwich-eating. Autonomous vehicles need not adjust their seatbelt, talk on the phone with their friend, or drive drunk.
 
-Herein lies the major reason why robots are superior drivers: _they focus entirely on the road and its conditions_, whereas humans typically do not. Their sole existence is to focus on the road, ingest data from the various sensors, and make the most informed driving decision possible.
+Herein lies the major reason why robots are superior drivers: _they focus entirely on the road and its conditions_, whereas humans typically do not. Their sole existence is to ingest data from the various sensors and to make the most informed driving decision possible.
 
-Robot drivers are defensive and cautious _by design._ Humans, to put it mildly, are often less than cautious on the road. Although we may try to drive cautiously, people do not always have the discipline to control their emotions while behind the wheel.
+Robot drivers are defensive and cautious _by design._ Humans, to put it mildly, are less than cautious on the road. Although we may try to drive cautiously, people do not always have the discipline to control their emotions while behind the wheel.
 
 <div class="callout__info">
   <h4>❗ Self-driving cars still face significant problems.</h4>
@@ -103,7 +102,7 @@ On highways and interstates, a single two-car accident can halt traffic for hour
 Autonomous vehicles will substantially reduce the number of hours we spend in traffic because those vehicles will experience significantly less accidents.
 Self-driving cars will also reduce the number of erratic lane-changes made by humans which cause the dreaded [traffic shockwaves](https://en.wikipedia.org/wiki/Traffic_wave).
 
-It is easy to see how most statistics and quantifiable paramaters of driving will improve as self-driving vehicles begin to replace human drivers.
+It is easy to see how safety statistics will improve as self-driving vehicles begin to replace human drivers.
 
 # AVs Will Continue To Improve
 

@@ -51,7 +51,7 @@ The U.S. government even [sued](https://en.wikipedia.org/wiki/United_States_v._M
   <br />
   <p>
     People use the word "monopoly" incorrectly. Monopolies are <em>impossible</em> without government intervention. One
-    of the biggest fallacies repeated today is that that a free, unregulated market will lead to the establishment of
+    of the biggest fallacies repeated today is that a free, unregulated market will lead to the establishment of
     coercive monopolies.
   </p>
   <br />
@@ -107,11 +107,11 @@ We should welcome and appreciate cooperation between companies on issues like te
 Instead, individuals like Hawley argue that tech companies are secretly meeting and sharing information so that they can simultaneously [shadow ban](https://en.wikipedia.org/wiki/Shadow_banning) or censor posts made by Republicans.
 He is not the only one claiming such malfeasance.
 
-Ben Shapiro, popular conservative commentator, recently went on a [diatribe](https://twitter.com/benshapiro/status/1348292928591032325) regarding the need for government oversight of tech companies who, he claims, are becoming monopolies. Here is the beginning of his rant against social media platforms:
+Ben Shapiro, popular conservative commentator, recently went on a [diatribe](https://twitter.com/benshapiro/status/1348292928591032325) regarding the need for government oversight of tech companies who, he claims, are becoming monopolies. This tweet summarizes his view of social media platforms:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Imagine if, in the midst of the massive BLM riots this summer, the entire tech infrastructure had deplatformed Facebook because some had used that app to plan events devolving into violence. People would rightly have called that an insane act of ideological fascism.</p>&mdash; Ben Shapiro (@benshapiro) <a href="https://twitter.com/benshapiro/status/1348292928591032325?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">I am by nature anti-regulation. But even the consumer-based theory of anti-monopoly championed by free market advocates cuts in favor of anti-monopolistic regulation if these companies are acting in de facto collusion to shut all avenues of dissent.</p>&mdash; Ben Shapiro (@benshapiro) <a href="https://twitter.com/benshapiro/status/1348293627731177481?ref_src=twsrc%5Etfw">January 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Shapiro and other pundits often speak about he supposed "censorship" of conservative posts on social media.
+Shapiro begins by claiming he's "anti-regulation" then promptly argues for regulation in the next sentence! He and other pundits spend much time speaking about he supposed "censorship" of conservative posts on social media.
 
 <div class="callout__info">
   <h4>✋ You put "censorship" in quotes too?</h4>
@@ -147,8 +147,11 @@ Twitter owns the platform and has the right to enforce their contractual agreeme
 
 Conservatives often cry out "I have a right to my speech! I have a right to state my opinion!" Not on Twitter; not on anyone else's property without their consent.
 
-No one has a right to go onto _someone else's_ platform and demand that platform to let them post at will.
-Doing so <u>violates the rights of the platform owner.</u> There is no difference in principle between that and forcing a doctor to see you as a patient.
+No one has a right to go onto someone else's platform and demand that platform to let them post at will.
+Doing so _violates the rights of the platform owner._ There is no difference in principle between forcing Twitter to let you post a comment and forcing a doctor to see you as a patient.
+
+<span class="color-primary-shade"><b>Initiating force is always wrong, regardless of context.</b></span>
+
 People and corporations alike have a right to conduct business with whoever they choose.
 
 <div class="callout__info">
@@ -162,7 +165,7 @@ People and corporations alike have a right to conduct business with whoever they
   <p>We need to start treating them as such, rather than some mystical, spiritual blob. Many Americans loathe corporations in part because they view them as such.</p>
 </div>
 
-Tucker Carlson, popular conservative talk-show [host](https://en.wikipedia.org/wiki/Tucker_Carlson_Tonight), vehemently opposes Big Tech and is outspoken in his opinions regarding government's role in regulating software and the internet.
+Tucker Carlson, popular conservative talk-show host, vehemently opposes Big Tech and is outspoken in his opinions regarding government's role in regulating software and the internet.
 Carlson also fears automation and has repeatedly argued for governmental interference in that sphere.
 
 In [this exchange](https://youtu.be/Bh8vqof9hAk?t=1740) with Shapiro (begin watching at 29:00 for relevant topic), Carlson is asked: "Would you... be in favor of restrictions on the ability of trucking companies to use this sort of technology [autonomous trucks] to... maintain the number of jobs in the trucking industry?"
