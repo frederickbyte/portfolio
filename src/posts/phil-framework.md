@@ -5,33 +5,32 @@ date: '2020-06-02'
 tags: ['philosophy', 'politics']
 ---
 
-Ideas determine the course of history. Good ideas can bring a country unparalleled wealth and prosperity - bad ideas can destroy one. Virtuous ideas gave birth to America. We have since abandoned those ideas. As a result our country is dying.
+Ideas determine the course of history. Good ideas will bring a country unparalleled wealth and prosperity - bad ideas will destroy one. Virtuous ideas gave birth to America. We have since abandoned those ideas and our country is dying as a result.
 
-People are more stressed, anxious, depressed, drug-addicted, and in debt than ever before. We blame each other and promise to act differently, but nothing changes. Politians make empty promises to "be better," but no substantial changes can be made until we challenge the fundamental premises by which we operate.
+People are more stressed, anxious, depressed, drug-addicted, and in debt than ever before. We blame each other and promise to act differently, but nothing changes. Politians make empty promises to "do better," but no substantial changes will be made until we challenge the fundamental premises by which our society operates.
 
-I hope that by sharing my ideas we can work towards curing our toxic culture and towards making life more free and more prosperous for everyone. Influencing a culture takes time. But so long as humans possess free will, we should make an effort to promote good ideas and denounce evil ones.
+I hope that by sharing my ideas we can work towards curing our toxic culture and towards making life more free and more prosperous for everyone. Influencing a culture takes time. But so long as humans possess free will, we _should_ make an effort to promote good ideas and to denounce evil ones.
 
-With this being the first of many discussions we will have, it is appropriate for me to outline my worldview and to describe the ideas that guide my life. These ideas will be apparent in future posts, but it is important to lay the groundwork before examining any specific topic. This will be a summary, not an in-depth inspection of these ideas. It would take quite a while to comprehensively explain all of my convictions and where they come from.
+With this being the first of many discussions we will have, it is appropriate for me to outline my worldview and to describe the ideas that guide my life. These ideas will be apparent in future posts, but it is important to lay the groundwork before examining any specific topic. This will be a summary, not an in-depth philosophical analysis. It would take quite a while to comprehensively explain all of my convictions and their origins.
 
 <div class="callout__info">
-  <h4>Here's a summary before we get into the details</h4>
+  <h4>Here's a quick summary</h4>
   <ol>
     <li>
-      <u>Metaphysics</u>: there is a single, objective reality that exists
-      independent of consciousness. Everything that exists exists in this one
-      reality. Everything that exists has a specific identity and can only act
-      according to that identity.
+      <u>Metaphysics</u>: there is a <em>single, objective reality</em> that exists
+      independent of consciousness. Everything exists in this one
+      reality and has a specific identity.
     </li>
     <br />
     <li>
-      <u>Epistemology</u>: we are capable of understanding reality through
+      <u>Epistemology</u>: humans are capable of understanding reality through
       <em>logic</em> and <em>reason</em>, which are faculties of our minds.
       Understanding reality begins with perception, which leads to concept
       formation.
     </li>
     <br />
     <li>
-      <u>Ethics</u>: the goal of life is to **be happy**. Living and acting
+      <u>Ethics</u>: the goal of life is to <b>be happy.</b> Living and acting
       according to one's values and long-term goals is moral. Initiating force
       is immoral because it prevents others from living freely and achieving
       their happiness.
@@ -85,7 +84,7 @@ Although we are fallible, <u>knowledge is attainable</u>. Knowledge is an unders
 
 One can go further by abstracting away the general form of a tree. One can ignore the specific characteristics of each tree (i.e. ignore the leaf color, height, number of branches) and focus on what all of the trees share in common. Only then can one create the concept of a tree. This too is knowledge but at a higher, more complex level.
 
-Most children can only gain knowledge on the perceptual level. But as we age and as our brain develops, we are able to understand patterns and categorize items, thus creating a mental file system of reality. This allows humans to build on prior knowledge and enables us to understand reality at a level no other animal can. Reason is why humans are able to create machines, develop constitutions, and build rockets. The luxuries we indulge in today are only possible because our minds are capable of understanding reality.
+Most children can only gain knowledge on the perceptual level. But as we age and as our brain develops, we are able to understand patterns and categorize items, thus creating a **mental file system of reality.** This allows humans to build on prior knowledge and enables us to understand reality at a level no other animal can. Reason allows humans are able to create machines, develop constitutions, and build rockets. The luxuries we indulge in today are only possible because our minds are capable of understanding reality.
 
 Man must use _reason_, a faculty of his mind, to take in the sensory data he perceives and to make rational decisions that are in his long-term self interest.
 

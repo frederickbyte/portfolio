@@ -274,7 +274,6 @@ These are just some of the many decisions by Big Tech that I disagree with. But 
     Technology companies have created life-changing devices and software that allow us to do things that were previously
     in the realm of science-fiction. Today, we can:
   </p>
-  <br />
   <ul>
     <li>FaceTime™️ a friend on the other side of the world in HD quality</li>
     <li>Upload videos, images, and audio to an account that our friends and family can instantly view</li>

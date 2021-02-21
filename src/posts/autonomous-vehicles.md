@@ -2,7 +2,7 @@
 title: Autonomous Vehicles Are Safe
 description: Robots drive more safely than humans - they will only get better.
 date: '2020-11'
-category: ['tech']
+tags: ['tech']
 ---
 
 Many people are uncomfortable with change. Some are _especially_ uncomfortable with the idea of automation (robots/software replacing humans).
