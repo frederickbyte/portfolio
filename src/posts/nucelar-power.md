@@ -91,7 +91,7 @@ Capacity factor is a measure of what percentage of the time a power plant actual
 With nuclar power, we would not have to worry about the reliability of electricity (more on reliability below).
 
 <figure>
-  <img src="/posts/capacity_factor.png" alt="Source: U.S. Energy Information Administration"/>
+  <img src="/images/posts/capacity_factor.png" alt="Source: U.S. Energy Information Administration"/>
   <figcaption>Source: U.S. Energy Information Administration</figcaption>
 </figure>
 

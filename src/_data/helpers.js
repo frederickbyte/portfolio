@@ -67,4 +67,12 @@ module.exports = {
   filterCollectionByKeys(collection, keys) {
     return collection.filter((x) => keys.includes(x.data.key));
   },
+  /**
+   * Returns the current full year as number.
+   * @returns {number} Full year
+   */
+  getCurrentYear() {
+    const today = new Date();
+    return today.getFullYear();
+  },
 };

@@ -1,15 +1,17 @@
 ---
-title: Looking Ahead to November
+title: Looking Ahead to the 2020 Elections
 description: The principles that should guide us when voting, and what that means for November.
 date: '2020-07-10'
 tags: ['politics', 'philosophy']
 ---
 
-Other than your mind, the most powerful tool you possess is your **voice.** Representation in a free society is literally life or death - our lives sway in one direction or another depending on the quality of our public servants. I'm not trying to be hyperbolic. Who we elect into office directly impacts how much we pay in taxes, our social freedoms (drugs, guns, marriage, etc.), and our relationships with other countries (which affects the prices we pay on products other countries produce).
+Other than your mind, the most powerful tool you possess is your **voice.** Representation in a free society is literally life or death - our lives can go in one direction or another depending on the quality of our public servants. Who we elect into office directly impacts how much we pay in taxes, our social freedoms (drugs, guns, marriage, etc.), and our relationships with other countries (which affects the availability and prices we pay on products that other countries produce).
 
 Unfortunately, many Americans are apathetic towards who represents us until the presidential election - by then it is too late. Every four years we complain about the low quality of candidates. But we choose who runs for office - we determine the ideas that the candidates argue over - we ultimately decide the path of our country. _A pool of awful political candidates is an indictment on us._
 
-During elections, those who do vote tend to vote against a specific candidate rather than voting in favor of one. People say: "Well that guy's a crazy liberal so I'm going to vote for Trump" or "Well I think Trump is insane so I'll probably go with Biden even though I don't care for his policies." What does this even mean? What is the goal
+During elections, those who do vote tend to vote against a specific candidate rather than voting in favor of one. People say: "Well that guy's a crazy liberal so I'm going to vote for Trump" or "Well I think Trump is insane so I'll probably go with Biden even though I don't care much for his policies."
+
+For most, they are choosing the "lesser of two evils" - i.e. the person they hate *less.*
 
 Because our culture stands for nothing, it votes for nothing. Americans vote against the candidate they hate most rather than vote for a candidate they love. This is, in large part, due to a lack of integrity and principle. One must have a set of objective guidelines to guide his voting decisions. Otherwise, we end up in the situation we have today: a rotten field of candidates that that do not stand up for individuality; disgusting candidates that few people like but will nonetheless vote for out of desperation.
 

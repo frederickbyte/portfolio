@@ -5,16 +5,18 @@
   <header class="hero">
     <div class="[ hero__inner ]">
       <div class="[ hero__content ] [ dot-shadow radius flow ] [ bg-dark-shade color-light flow-space-400 ]">
-        <h1 class="[ headline ] [ measure-compact ]" data-highlight="quinary">{{ title }}</h1>
-        <p>{{ summary }}</p>
-        <p class="visually-hidden" id="tags-desc">Tags that this post has been filed under.</p>
-        <ul class="tags-list" aria-describedby="tags-desc">
-          {% for tag in tags %}
-          <li>
-            <a href="/tag/{{ tag | slug }}/">#{{ tag | title | replace(' ', '') }}</a>
-          </li>
-          {% endfor %}
-        </ul>
+        <div class="wrapper flow">
+          <h1 class="[ headline ] [ measure-compact ]" data-highlight="quinary">{{ title }}</h1>
+          <p>{{ summary }}</p>
+          <p class="visually-hidden" id="tags-desc">Tags that this post has been filed under.</p>
+          <ul class="tags-list" aria-describedby="tags-desc">
+            {% for tag in tags %}
+            <li>
+              <a href="/tag/{{ tag | slug }}/">#{{ tag | title | replace(' ', '') }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
       </div>
     </div>
   </header>
@@ -33,21 +35,6 @@
       </div>
     </div>
   </article>
-  <!-- <div class="wrapper">
-    <article class="[ gallery ] [ flow flow-space-800 ]">
-      {% for item in gallery %}
-      <figure class="[ gallery__item ] [ flow ]">
-        <div class="[ gallery__media ]" data-frame="primary">
-          <img src="{{ item.image }}" alt="" aria-hidden="true" class="radius" />
-        </div>
-        <figcaption class="[ gallery__content ] [ flow ]">
-          <h2 class="[ gallery__heading ] [ text-700 md:text-900 ]">{{ item.title }}</h2>
-          <p class="[ gallery__summary ] [ measure-short flow-space-300 ]">{{ item.summary }}</p>
-        </figcaption>
-      </figure>
-      {% endfor %}
-    </article>
-  </div> -->
   <div class="[ wrapper ] [ flow ] [ page-content ]">
     {{ content | safe}}
   </div>
