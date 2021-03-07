@@ -5,11 +5,9 @@ layout: 'layouts/home.html'
 intro:
   eyebrow: 'Writings and projects from'
   main: 'Andrew Stolzle'
-  summary: 'Hello, Andrew here! I am a developer with experience creating primarily web and mobile applications. I also enjoy writing as it helps me to organize my ideas and to think more clearly.'
+  summary: "Hello, Andrew here! I'm a developer with experience creating primarily web and mobile applications. I also enjoy writing as it helps me to organize my ideas and to think more clearly."
   primaryButtonText: 'All Articles'
   primaryButtonUrl: '/blog'
-  image: '/images/bg/abstract.jpg'
-  imageAlt: 'Abstract blue and orange painting'
 primaryCTA:
   title: 'Recent Projects'
   summary: 'Recent side projects and other software-related work.'
