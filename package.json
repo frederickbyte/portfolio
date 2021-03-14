@@ -1,7 +1,7 @@
 {
   "name": "andrew-stolzle-site",
   "version": "1.0.0",
-  "description": "Personal portfolio and blog of Andrew Stolzle.",
+  "description": "Personal portfolio and writings from Andrew Stolzle.",
   "main": ".eleventy.js",
   "scripts": {
     "start": "npx gulp && concurrently \"npx gulp watch\" \"npx eleventy --serve\"",

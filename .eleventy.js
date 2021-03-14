@@ -33,7 +33,7 @@ module.exports = (config) => {
     return sortByDisplayOrder(collection.getFilteredByGlob('./src/work/*.md')).filter((x) => x.data.featured);
   });
   // Returns a collection of blog posts ordered newest -> oldest.
-  config.addCollection('blog', (collection) => {
+  config.addCollection('articles', (collection) => {
     return [...collection.getFilteredByGlob('./src/posts/*.md')].reverse();
   });
   // Tell 11ty to use the .eleventyignore and ignore our .gitignore file

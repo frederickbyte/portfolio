@@ -1,5 +1,5 @@
 ---
-title: 'Andrew Stolzle Blog'
+title: 'Andrew Stolzle Articles'
 summary: 'A feed of the latest posts from the blog of Andrew Stolzle.'
 permalink: '/feed.xml'
 ---
@@ -9,13 +9,13 @@ permalink: '/feed.xml'
 	<subtitle>{{ summary }}</subtitle>
 	<link href="{{ site.url }}{{ permalink }}" rel="self"/>
 	<link href="{{ site.url }}/"/>
-	<updated>{{ collections.blog | rssLastUpdatedDate }}</updated>
+	<updated>{{ collections.articles | rssLastUpdatedDate }}</updated>
 	<id>{{ site.url }}</id>
 	<author>
     <name>{{ site.authorName }}</name>
     <email>andrewstolzle@gmail.com</email>
 	</author>
-	{% for post in collections.blog %}
+	{% for post in collections.articles %}
     {% set absolutePostUrl %}{{ site.url }}{{ post.url | url }}{% endset %}
     <entry>
       <title>{{ post.data.title }}</title>
