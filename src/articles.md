@@ -10,4 +10,4 @@ paginationNextText: 'Older posts'
 paginationAnchor: '#post-list'
 ---
 
-Recent articles and notes from yours truly. These articles are of anything that piques my interest, so I have added some <b>#hashtags</b> to let you know what each article discusses.
+Recent articles and notes from yours truly. These writings are of anything that piques my interest, so I have added some <b>#hashtags</b> to let you know what each one discusses.

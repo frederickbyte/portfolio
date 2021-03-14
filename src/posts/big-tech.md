@@ -13,7 +13,7 @@ It is no coincidence that the most hated corporations are also the largest and m
 [Recent studies](https://www.pewresearch.org/fact-tank/2020/10/27/how-americans-see-u-s-tech-companies-as-government-scrutiny-increases/) by the Pew Research Center quantify just how hostile we are. According to data from 2020:
 
 - **72%** of adults say social media companies have too much power and influence in politics
-- Half of Americans **(47%)** say government should regulate major tech corporations _more_ than it does now
+- **Half** of Americans (47%) say government should regulate major tech corporations _more_ than it does now
 - **64%** of Americans say social media have a _mostly negative_ effect on the way things are going in the country
 
 Why is this a bad thing? Don't we have a right to be concerned about people lying online? Haven't social media sites made the country more polarized?
