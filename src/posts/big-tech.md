@@ -10,7 +10,7 @@ Amazon, Apple, Google, Microsoft, Facebook, and Twitter are the primary victims 
 Venomous resentment toward them is not due to any specific action they've taken, but due to their **size and success**.
 
 It is no coincidence that the most hated corporations are also the largest and most financially successful.
-[Recent studies](https://www.pewresearch.org/fact-tank/2020/10/27/how-americans-see-u-s-tech-companies-as-government-scrutiny-increases/) by the Pew Research Center quantify just how hostile we are. According to data from 2020:
+[Recent studies](https://www.pewresearch.org/fact-tank/2020/10/27/how-americans-see-u-s-tech-companies-as-government-scrutiny-increases/) by the Pew Research Center highlight just how hostile we are. According to data from 2020:
 
 - **72%** of adults say social media companies have too much power and influence in politics
 - **Half** of Americans (47%) say government should regulate major tech corporations _more_ than it does now
@@ -289,7 +289,7 @@ our lives.
 
 ---
 
-**Update for Jan. 22nd**
+**Update for Jan. 22nd, 2021**
 
 Google released a [blog post](https://blog.google/around-the-globe/google-asia/australia/8-facts-about-google-and-news-media-bargaining-code) today explaining their opposition to Australia's proposed [legislation](https://www.accc.gov.au/focus-areas/digital-platforms/news-media-bargaining-code) to further regulate digital platforms.
 Google is threatening to halt its search engine service in Australia if the bill, in its current form, passes. <u>I agree with Google.</u>
@@ -306,3 +306,13 @@ How much does Google have to pay per link? Who knows. Will Google have to pay mo
 
 This bill is a walking logical contradiction precisely becuase it is immoral in principle. _Australia has no moral authority to intervene into the operations and inner-workings of Google or any other digital platform._
 We will keep track of this bill because it carries massive ramifications not only for Australia, but for the world. Governments in both Europe and America may follow with similar legislation in the future.
+
+---
+
+**Update for Apr. 7th, 2021**
+
+This week, the Supreme Court released a [document](https://www.supremecourt.gov/orders/courtorders/040521zor_3204.pdf) containing some opinions on pending cases. Of note is Justice Clarence Thomas' writings on Big Tech (starting on page 9 of the document), specifically Twitter and its banning of Donald Trump's account. Justice Thomas suggests that there is legal basis for imposing further regulations upon large tech platforms and/or taking legal action against Twitter for its recent actions (banning, flagging, etc.) regarding Trump and other user accounts.
+
+On page 17, Thomas says "legislatures might... be able to treat digital platforms like places of public accommodation." Like many conservatives, Thomas believes that once an entity becomes large enough, it becomes a "public space" and thus the federal government should assume a role in overseeing and/or moderating content. This notion is **immoral** and **destructive**. A private entity does _not_ become a public one simply due to its size or financial success. Federal and state governments have no moral right to assume control of any tech company, nor do they have the right to force those corporations to adopt certain user policies in the name of "fairness" or "equality."
+
+I've surrounded numerous words in quotes because people use them in dishonest ways.

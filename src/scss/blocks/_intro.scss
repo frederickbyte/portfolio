@@ -1,7 +1,7 @@
 .intro {
   display: flex;
   flex-direction: column;
-
+  max-width: 50rem;
   &__content {
     margin-top: get-size('400');
   }

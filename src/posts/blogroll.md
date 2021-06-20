@@ -15,6 +15,6 @@ tags: ['misc']
 
 💎 [Tomek Nieżurawski](https://tomekdev.com/) | A young but interesting blog. Tomek's post on search bars allowing typo is especially interesting.
 
-📚 [Dan Abramov](https://overreacted.io/) | Dan is a React developer who is well-versed in all things front-end.
+📚 [Dan Abramov](https://overreacted.io/) | Dan is a React developer who is well-versed in JavaScript.
 
 💡 [Victor Zhou](https://victorzhou.com/) | Victor primarily writes about machine learning and neural networks. He communicates these ideas and the mathematical theory behind them excellently.
